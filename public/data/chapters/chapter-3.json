@@ -1,0 +1,309 @@
+{
+  "number": 3,
+  "title": "Karma Yoga",
+  "subtitle": "The Yoga of Action",
+  "summary": "In Chapter 3, Lord Krishna explains the importance of performing one's prescribed duties (karma) without attachment to results. He distinguishes between selfless action (karma yoga) and selfish action, emphasizing that one must act according to their dharma (duty) while maintaining spiritual discipline. Arjuna is instructed to fight not for personal gain but as a matter of duty.",
+  "verses": [
+    {
+      "number": "3.1",
+      "sanskrit": "अर्जुन उवाच | ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन | तत्किं कर्मणि घोरे मां नियोजयसि केशव ||",
+      "transliteration": "arjuna uvāca | jyāyasī cet karmaṇas te matā buddhir janārdana | tat kiṃ karmaṇi ghore māṃ niyojayasi keśava ||",
+      "translation": "Arjuna said: O Janardana (Krishna), if You consider knowledge superior to action, why then do You urge me to engage in this terrible action?",
+      "explanation": "Arjuna, confused by Krishna's emphasis on wisdom (Jnana Yoga) in Chapter 2, questions why he is being instructed to fight if knowledge is superior to action."
+    },
+    {
+      "number": "3.2",
+      "sanskrit": "व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे | तदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ||",
+      "transliteration": "vyāmiśreṇeva vākyena buddhiṃ mohayasīva me | tadekaṃ vada niścitya yena śreyo'hamāpnuyām ||",
+      "translation": "My intellect is bewildered by Your conflicting words. Please tell me decisively which path is best for me.",
+      "explanation": "Arjuna seeks clarity, as Krishna's teachings seem contradictory—sometimes praising renunciation and other times urging action."
+    },
+    {
+      "number": "3.3",
+      "sanskrit": "श्रीभगवानुवाच | लोकेऽस्मिन् द्विविधा निष्ठा पुरा प्रोक्ता मयानघ | ज्ञानयोगेन सांख्यानां कर्मयोगेन योगिनाम् ||",
+      "transliteration": "śrī bhagavān uvāca | loke'smin dvividhā niṣṭhā purā proktā mayānagha | jñānayogena sāṅkhyānāṃ karmayogena yoginām ||",
+      "translation": "The Blessed Lord said: O sinless one, in this world, there are two paths of spiritual discipline: the path of knowledge (Jnana Yoga) for the contemplative and the path of action (Karma Yoga) for the active.",
+      "explanation": "Krishna explains that both paths lead to the same goal but are suited to different temperaments."
+    },
+    {
+      "number": "3.4",
+      "sanskrit": "न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते | न च संन्यसनादेव सिद्धिं समधिगच्छति ||",
+      "transliteration": "na karmaṇām anārambhān naiṣkarmyaṃ puruṣo'śnute | na ca saṃnyasanād eva siddhiṃ samadhigacchati ||",
+      "translation": "One cannot attain freedom from karma (action) merely by abstaining from work, nor can one achieve perfection by mere renunciation.",
+      "explanation": "Krishna emphasizes that mere physical inaction does not equate to spiritual progress; one must act selflessly."
+    },
+    {
+      "number": "3.5",
+      "sanskrit": "न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् | कार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः ||",
+      "transliteration": "na hi kaścit kṣaṇam api jātu tiṣṭhaty akarmakṛt | kāryate hy avaśaḥ karma sarvaḥ prakṛti-jair guṇaiḥ ||",
+      "translation": "Everyone is forced to act helplessly by the qualities born of material nature (gunas); no one can remain without action even for a moment.",
+      "explanation": "Krishna states that action is inevitable due to the influence of the three gunas (sattva, rajas, tamas)."
+    },
+    {
+      "number": "3.6",
+      "sanskrit": "कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन् | इन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते ||",
+      "transliteration": "karmendriyāṇi saṃyamya ya āste manasā smaran | indriyārthān vimūḍhātmā mithyācāraḥ sa ucyate ||",
+      "translation": "One who restrains the senses but dwells mentally on sense objects is called a hypocrite.",
+      "explanation": "Krishna warns against false renunciation—physically abstaining while mentally craving."
+    },
+    {
+      "number": "3.7",
+      "sanskrit": "यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन | कर्मेन्द्रियैः कर्मयोगमसक्तः स विशिष्यते ||",
+      "transliteration": "yas tv indriyāṇi manasā niyamyārabhate 'rjuna | karmendriyaiḥ karmayogam asaktaḥ sa viśiṣyate ||",
+      "translation": "But one who controls the senses with the mind and engages in karma yoga without attachment, O Arjuna, excels.",
+      "explanation": "The true yogi performs duty with detachment, using the body as an instrument."
+    },
+    {
+      "number": "3.8",
+      "sanskrit": "नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः | शरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः ||",
+      "transliteration": "niyataṃ kuru karma tvaṃ karma jyāyo hy akarmaṇaḥ | śarīra-yātrāpi ca te na prasiddhyed akarmaṇaḥ ||",
+      "translation": "Perform your prescribed duty, for action is superior to inaction. Even the maintenance of your body would be impossible without action.",
+      "explanation": "Krishna urges Arjuna to act, as even survival requires action."
+    },
+    {
+      "number": "3.9",
+      "sanskrit": "यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः | तदर्थं कर्म कौन्तेय मुक्तसंगः समाचर ||",
+      "transliteration": "yajñārthāt karmaṇo 'nyatra loko 'yaṃ karma-bandhanaḥ | tadarthaṃ karma kaunteya mukta-saṅgaḥ samācara ||",
+      "translation": "Work done as a sacrifice for Vishnu (Yajna) frees one from bondage. O son of Kunti, perform your duty for His sake, free from attachment.",
+      "explanation": "Actions performed as offerings to God (Yajna) purify the soul."
+    },
+    {
+      "number": "3.10",
+      "sanskrit": "सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः | अनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक् ||",
+      "transliteration": "saha-yajñāḥ prajāḥ sṛṣṭvā purovāca prajāpatiḥ | anena prasaviṣyadhvam eṣa vo 'stv iṣṭa-kāma-dhuk ||",
+      "translation": "In ancient times, the Lord of creation (Prajapati) created humans along with yajna (sacrifice) and said, 'By this, may you prosper; may this fulfill your desires.'",
+      "explanation": "Krishna explains the cosmic principle of sacrifice (Yajna) as the foundation of life."
+    },
+    {
+      "number": "3.11",
+      "sanskrit": "देवान्भावयतानेन ते देवा भावयन्तु वः | परस्परं भावयन्तः श्रेयः परमवाप्स्यथ ||",
+      "transliteration": "devān bhāvayatānena te devā bhāvayantu vaḥ | parasparaṃ bhāvayantaḥ śreyaḥ param avāpsyatha ||",
+      "translation": "Nourish the Devas (gods) with yajna, and they will nourish you. Thus, by mutual cooperation, you shall attain the supreme good.",
+      "explanation": "A cycle of mutual sustenance exists between humans and divine forces through Yajna."
+    },
+    {
+      "number": "3.12",
+      "sanskrit": "इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः | तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः ||",
+      "transliteration": "iṣṭān bhogān hi vo devā dāsyante yajña-bhāvitāḥ | tair dattān apradāya ebhyo yo bhuṅkte stena eva saḥ ||",
+      "translation": "The Devas, pleased by sacrifice, will grant you desired enjoyments. But one who enjoys these gifts without offering in return is a thief.",
+      "explanation": "Krishna warns against selfish enjoyment without gratitude or sacrifice."
+    },
+    {
+      "number": "3.13",
+      "sanskrit": "यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः | भुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात् ||",
+      "transliteration": "yajña-śiṣṭāśinaḥ santo mucyante sarva-kilbiṣaiḥ | bhuñjate te tv aghaṃ pāpā ye pacanty ātma-kāraṇāt ||",
+      "translation": "The virtuous who partake of the remnants of sacrifice are freed from sin, but the wicked who cook only for themselves eat sin.",
+      "explanation": "Food sanctified by Yajna purifies; selfish cooking binds one to karma."
+    },
+    {
+      "number": "3.14",
+      "sanskrit": "अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसंभवः | यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः ||",
+      "transliteration": "annād bhavanti bhūtāni parjanyād anna-sambhavaḥ | yajñād bhavati parjanyo yajñaḥ karma-samudbhavaḥ ||",
+      "translation": "All beings arise from food, food arises from rain, rain arises from Yajna, and Yajna arises from prescribed duties.",
+      "explanation": "Krishna describes the cosmic cycle sustained by Yajna (sacrificial duty)."
+    },
+    {
+      "number": "3.15",
+      "sanskrit": "कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम् | तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम् ||",
+      "transliteration": "karma brahmodbhavaṃ viddhi brahmākṣara-samudbhavam | tasmāt sarva-gataṃ brahma nityaṃ yajñe pratiṣṭhitam ||",
+      "translation": "Know that karma arises from the Vedas (Brahman), and the Vedas arise from the Imperishable. Thus, the all-pervading Brahman is eternally established in Yajna.",
+      "explanation": "Action (karma) is rooted in cosmic order (Brahman), which is sustained by sacrifice."
+    },
+    {
+      "number": "3.16",
+      "sanskrit": "एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः | अघायुरिन्द्रियारामो मोघं पार्थ स जीवति ||",
+      "transliteration": "evaṃ pravartitaṃ cakraṃ nānuvartayatīha yaḥ | aghāyur indriyārāmo moghaṃ pārtha sa jīvati ||",
+      "translation": "O Partha, one who does not follow this wheel of creation (cycle of Yajna) lives in vain, indulging the senses and clinging to a sinful life.",
+      "explanation": "Rejecting this cosmic duty leads to a wasted, selfish existence."
+    },
+    {
+      "number": "3.17",
+      "sanskrit": "यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानवः | आत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते ||",
+      "transliteration": "yas tv ātma-ratir eva syād ātma-tṛptaś ca mānavaḥ | ātmany eva ca santuṣṭas tasya kāryaṃ na vidyate ||",
+      "translation": "But for one who rejoices in the Self, is satisfied in the Self, and is content in the Self alone, there is no duty to perform.",
+      "explanation": "The perfected yogi, absorbed in the Self, transcends external duties."
+    },
+    {
+      "number": "3.18",
+      "sanskrit": "नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन | न चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रयः ||",
+      "transliteration": "naiva tasya kṛtenārtho nākṛteneha kaścana | na cāsya sarva-bhūteṣu kaścid artha-vyapāśrayaḥ ||",
+      "translation": "For such a person, there is no interest in what is done or what is not done in this world, nor does he depend on any being for any purpose.",
+      "explanation": "The Self-realized being is free from transactional motivations."
+    },
+    {
+      "number": "3.19",
+      "sanskrit": "तस्मादसक्तः सततं कार्यं कर्म समाचर | असक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः ||",
+      "transliteration": "tasmād asaktaḥ satataṃ kāryaṃ karma samācara | asakto hy ācaran karma param āpnoti pūruṣaḥ ||",
+      "translation": "Therefore, always perform your duty without attachment, for by doing so one attains the Supreme.",
+      "explanation": "Krishna concludes that selfless action leads to liberation."
+    },
+    {
+      "number": "3.20",
+      "sanskrit": "कर्मणैव हि संसिद्धिमास्थिता जनकादयः | लोकसंग्रहमेवापि संपश्यन्कर्तुमर्हसि ||",
+      "transliteration": "karmaṇaiva hi saṃsiddhim āsthitā janakādayaḥ | loka-saṅgraham evāpi sampaśyan kartum arhasi ||",
+      "translation": "Even kings like Janaka attained perfection through action alone. You should act with the welfare of the world in mind.",
+      "explanation": "Krishna cites the example of enlightened kings who ruled while being spiritually free."
+    },
+    {
+      "number": "3.21",
+      "sanskrit": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः | स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ||",
+      "transliteration": "yad yad ācarati śreṣṭhas tat tad evetaro janaḥ | sa yat pramāṇaṃ kurute lokas tad anuvartate ||",
+      "translation": "Whatever action a great person performs, others imitate. Whatever standards they set, the world follows.",
+      "explanation": "Leaders set examples; Arjuna, as a warrior, must uphold dharma."
+    },
+    {
+      "number": "3.22",
+      "sanskrit": "न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन | नानवाप्तमवाप्तव्यं वर्त एव च कर्मणि ||",
+      "transliteration": "na me pārthāsti kartavyaṃ triṣu lokeṣu kiñcana | nānavāptam avāptavyaṃ varta eva ca karmaṇi ||",
+      "translation": "O Partha, there is nothing in the three worlds that I need to do, nor is there anything unattained that I need to attain—yet I engage in action.",
+      "explanation": "Krishna, though God Himself, acts to set an example."
+    },
+    {
+      "number": "3.23",
+      "sanskrit": "यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रितः | मम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ||",
+      "transliteration": "yadi hy ahaṃ na varteyaṃ jātu karmaṇy atandritaḥ | mama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ ||",
+      "translation": "For if I ever ceased to engage in tireless action, all people would follow My path in every way.",
+      "explanation": "Krishna's inaction would mislead humanity into laziness."
+    },
+    {
+      "number": "3.24",
+      "sanskrit": "उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम् | संकरस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः ||",
+      "transliteration": "utsīdeyur ime lokā na kuryāṃ karma ced aham | saṅkarasya ca kartā syām upahanyām imāḥ prajāḥ ||",
+      "translation": "These worlds would perish if I did not perform action. I would be the cause of chaos and the destruction of humanity.",
+      "explanation": "Divine action sustains cosmic order (Dharma)."
+    },
+    {
+      "number": "3.25",
+      "sanskrit": "सक्ताः कर्मण्यविद्वांसो यथा कुर्वन्ति भारत | कुर्याद्विद्वांस्तथासक्तश्चिकीर्षुर्लोकसंग्रहम् ||",
+      "transliteration": "saktāḥ karmaṇy avidvāṃso yathā kurvanti bhārata | kuryād vidvāṃs tathāsaktaś cikīrṣur loka-saṅgraham ||",
+      "translation": "As the ignorant act with attachment to results, O Bharata, so should the wise act without attachment, for the welfare of the world.",
+      "explanation": "The wise must guide society through detached, dharmic action."
+    },
+    {
+      "number": "3.26",
+      "sanskrit": "न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम् | जोषयेत्सर्वकर्माणि विद्वान्युक्तः समाचरन् ||",
+      "transliteration": "na buddhi-bhedaṃ janayed ajñānāṃ karma-saṅginām | joṣayet sarva-karmāṇi vidvān yuktaḥ samācaran ||",
+      "translation": "The enlightened should not disturb the minds of the ignorant who are attached to action. Instead, by performing duties skillfully, they should inspire others to do the same.",
+      "explanation": "Wisdom should be shared without disrupting those still growing spiritually."
+    },
+    {
+      "number": "3.27",
+      "sanskrit": "प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः | अहङ्कारविमूढात्मा कर्ताहमिति मन्यते ||",
+      "transliteration": "prakṛteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśaḥ | ahaṅkāra-vimūḍhātmā kartāham iti manyate ||",
+      "translation": "All actions are performed by the modes (gunas) of material nature, but the ego-deluded person thinks, 'I am the doer.'",
+      "explanation": "The body-mind complex acts due to Prakriti (nature), not the true Self."
+    },
+    {
+      "number": "3.28",
+      "sanskrit": "तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः | गुणा गुणेषु वर्तन्त इति मत्वा न सज्जते ||",
+      "transliteration": "tattva-vit tu mahā-bāho guṇa-karma-vibhāgayoḥ | guṇā guṇeṣu vartanta iti matvā na sajjate ||",
+      "translation": "O mighty-armed one, the knower of truth understands that the gunas interact with the gunas. They remain unattached.",
+      "explanation": "The wise see that nature operates on nature, not the soul."
+    },
+    {
+      "number": "3.29",
+      "sanskrit": "प्रकृतेर्गुणसम्मूढाः सज्जन्ते गुणकर्मसु | तानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत् ||",
+      "transliteration": "prakṛter guṇa-sammūḍhāḥ sajjante guṇa-karmasu | tān akṛtsna-vido mandān kṛtsna-vin na vicālayet ||",
+      "translation": "Those deluded by the gunas become attached to guna-driven actions. The wise should not disturb them.",
+      "explanation": "The spiritually immature are bound by nature's forces; the wise guide gently."
+    },
+    {
+      "number": "3.30",
+      "sanskrit": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा | निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः ||",
+      "transliteration": "mayi sarvāṇi karmāṇi saṃnyasyādhyātma-cetasā | nirāśīr nirmamo bhūtvā yudhyasva vigata-jvaraḥ ||",
+      "translation": "Surrender all actions to Me, with your consciousness fixed in the Self, free from desire and possessiveness. Fight, free from mental fever!",
+      "explanation": "Krishna's final instruction: Act with surrender, free from anxiety."
+    },
+    {
+      "number": "3.31",
+      "sanskrit": "ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः | श्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभिः ||",
+      "transliteration": "ye me matam idaṃ nityam anutiṣṭhanti mānavāḥ | śraddhāvanto 'nasūyanto mucyante te 'pi karmabhiḥ ||",
+      "translation": "Those who faithfully practice this teaching of Mine, without envy, are freed from the bondage of karma.",
+      "explanation": "Devotees who follow Krishna's path attain liberation."
+    },
+    {
+      "number": "3.32",
+      "sanskrit": "ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम् | सर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतसः ||",
+      "transliteration": "ye tv etad abhyasūyanto nānutiṣṭhanti me matam | sarva-jñāna-vimūḍhāṃs tān viddhi naṣṭān acetasaḥ ||",
+      "translation": "But those who criticize this teaching and do not follow it are deluded in all knowledge and doomed.",
+      "explanation": "Rejecting this wisdom leads to spiritual ruin."
+    },
+    {
+      "number": "3.33",
+      "sanskrit": "सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि | प्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति ||",
+      "transliteration": "sadṛśaṃ ceṣṭate svasyāḥ prakṛter jñānavān api | prakṛtiṃ yānti bhūtāni nigrahaḥ kiṃ kariṣyati ||",
+      "translation": "Even the wise act according to their nature. All beings follow their inherent tendencies. What can repression accomplish?",
+      "explanation": "One must transcend, not suppress, their nature through wisdom."
+    },
+    {
+      "number": "3.34",
+      "sanskrit": "इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ | तयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ ||",
+      "transliteration": "indriyasye indriyasyārthe rāga-dveṣau vyavasthitau | tayor na vaśam āgacchet tau hy asya paripanthinau ||",
+      "translation": "Attachment and aversion for sense objects are fixed in the senses. One should not come under their control, for they are obstacles on the path.",
+      "explanation": "Mastery over likes/dislikes is essential for growth."
+    },
+    {
+      "number": "3.35",
+      "sanskrit": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् | स्वधर्मे निधनं श्रेयः परधर्मो भयावहः ||",
+      "transliteration": "śreyān sva-dharmo viguṇaḥ para-dharmāt sv-anuṣṭhitāt | sva-dharme nidhanaṃ śreyaḥ para-dharmo bhayāvahaḥ ||",
+      "translation": "It is better to perform one's own dharma imperfectly than another's dharma perfectly. Better to die in one's dharma; another's dharma is fraught with fear.",
+      "explanation": "Krishna's famous declaration: Follow your own path (svadharma) resolutely."
+    },
+    {
+      "number": "3.36",
+      "sanskrit": "अर्जुन उवाच | अथ केन प्रयुक्तोऽयं पापं चरति पूरुषः | अनिच्छन्नपि वार्ष्णेय बलादिव नियोजितः ||",
+      "transliteration": "arjuna uvāca | atha kena prayukto 'yaṃ pāpaṃ carati pūruṣaḥ | anicchann api vārṣṇeya balād iva niyojitaḥ ||",
+      "translation": "Arjuna said: O descendant of Vrishni (Krishna), by what is a person impelled to sin, even unwillingly, as if forced?",
+      "explanation": "Arjuna asks why humans commit evil against their will."
+    },
+    {
+      "number": "3.37",
+      "sanskrit": "श्रीभगवानुवाच | काम एष क्रोध एष रजोगुणसमुद्भवः | महाशनो महापाप्मा विद्ध्येनमिह वैरिणम् ||",
+      "transliteration": "śrī bhagavān uvāca | kāma eṣa krodha eṣa rajo-guṇa-samudbhavaḥ | mahāśano mahā-pāpmā viddhy enam iha vairiṇam ||",
+      "translation": "The Blessed Lord said: It is desire, it is anger, born of the guna of rajas (passion), all-devouring and sinful. Know this as the enemy here.",
+      "explanation": "Krishna identifies desire/anger (products of rajas) as the root cause."
+    },
+    {
+      "number": "3.38",
+      "sanskrit": "धूमेनाव्रियते वह्निर्यथादर्शो मलेन च | यथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम् ||",
+      "transliteration": "dhūmenāvriyate vahnir yathādarśo malena ca | yatholbenāvṛto garbhas tathā tenedam āvṛtam ||",
+      "translation": "As fire is obscured by smoke, a mirror by dust, and an embryo by the womb, so is wisdom obscured by desire.",
+      "explanation": "Desire clouds discernment like smoke obscures fire."
+    },
+    {
+      "number": "3.39",
+      "sanskrit": "आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा | कामरूपेण कौन्तेय दुष्पूरेणानलेन च ||",
+      "transliteration": "āvṛtaṃ jñānam etena jñānino nitya-vairiṇā | kāma-rūpeṇa kaunteya duṣpūreṇānalena ca ||",
+      "translation": "O son of Kunti, wisdom is eclipsed by this eternal enemy of the wise—desire, which is insatiable like fire.",
+      "explanation": "Desire is the perpetual foe of seekers."
+    },
+    {
+      "number": "3.40",
+      "sanskrit": "इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते | एतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम् ||",
+      "transliteration": "indriyāṇi mano buddhir asyādhiṣṭhānam ucyate | etair vimohayatyeṣa jñānam āvṛtya dehinam ||",
+      "translation": "The senses, mind, and intellect are said to be desire's strongholds. Through them, it deludes the embodied by veiling wisdom.",
+      "explanation": "Desire operates through the body-mind apparatus."
+    },
+    {
+      "number": "3.41",
+      "sanskrit": "तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ | पाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम् ||",
+      "transliteration": "tasmāt tvam indriyāṇy ādau niyamya bharatarṣabha | pāpmānaṃ prajahi hy enaṃ jñāna-vijñāna-nāśanam ||",
+      "translation": "Therefore, O best of the Bharatas, first control the senses and slay this sinful destroyer of knowledge and wisdom.",
+      "explanation": "Krishna advises Arjuna to master the senses to conquer desire."
+    },
+    {
+      "number": "3.42",
+      "sanskrit": "इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः | मनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः ||",
+      "transliteration": "indriyāṇi parāṇy āhur indriyebhyaḥ paraṃ manaḥ | manasas tu parā buddhir yo buddheḥ paratas tu saḥ ||",
+      "translation": "The senses are superior to the body, the mind is superior to the senses, the intellect is superior to the mind, and the Self is superior to the intellect.",
+      "explanation": "The hierarchy of control: Self > intellect > mind > senses > body."
+    },
+    {
+      "number": "3.43",
+      "sanskrit": "एवं बुद्धेः परं बुद्ध्वा संस्तभ्यात्मानमात्मना | जहि शत्रुं महाबाहो कामरूपं दुरासदम् ||",
+      "transliteration": "evaṃ buddheḥ paraṃ buddhvā saṃstabhyātmānam ātmanā | jahi śatruṃ mahā-bāho kāma-rūpaṃ durāsadam ||",
+      "translation": "Thus, knowing the Self beyond the intellect, O mighty-armed one, steady the mind and slay the formidable enemy in the form of desire.",
+      "explanation": "Final instruction: Realize the Self and conquer desire."
+    }
+  ]
+}

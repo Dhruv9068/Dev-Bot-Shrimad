@@ -1,0 +1,141 @@
+{
+  "number": 1,
+  "title": "Arjuna Vishada Yoga",
+  "subtitle": "The Yoga of Arjuna's Grief",
+  "summary": "The first chapter sets the scene on the battlefield of Kurukshetra. Arjuna, seeing his relatives, teachers, and friends on the opposing side, is overcome with grief and moral dilemma. He expresses his concerns about the consequences of the war to Krishna, ultimately refusing to fight.",
+  "verses": [
+    {
+      "number": "1.1",
+      "sanskrit": "धृतराष्ट्र उवाच। धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः। मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय॥",
+      "transliteration": "dhṛtarāṣṭra uvāca। dharmakṣetre kurukṣetre samavetā yuyutsavaḥ। māmakāḥ pāṇḍavāścaiva kimakurvata sañjaya॥",
+      "translation": "Dhritarashtra said: O Sanjaya, what did my sons (the Kauravas) and the sons of Pandu do when they gathered on the sacred field of Kurukshetra, eager for battle?",
+      "explanation": "The Gita begins with Dhritarashtra, the blind king, inquiring about the battle. His question reflects anxiety about the outcome, as he favors his sons (Kauravas) over the righteous Pandavas."
+    },
+    {
+      "number": "1.2",
+      "sanskrit": "सञ्जय उवाच। दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा। आचार्यमुपसङ्गम्य राजा वचनमब्रवीत्॥",
+      "transliteration": "sañjaya uvāca। dṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanastadā। ācāryam upasaṅgamya rājā vacanam abravīt॥",
+      "translation": "Sanjaya said: O King, after observing the Pandava army in battle formation, Prince Duryodhana approached his teacher Drona and spoke these words.",
+      "explanation": "Duryodhana, alarmed by the Pandavas' military arrangement, seeks reassurance from his guru Dronacharya, revealing his insecurity despite having a larger army."
+    },
+    {
+      "number": "1.3-6",
+      "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम्। व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता॥...॥",
+      "transliteration": "paśyaitāṃ pāṇḍu-putrāṇām ācārya mahatīṃ camūm। vyūḍhāṃ drupada-putreṇa tava śiṣyeṇa dhīmatā॥...॥",
+      "translation": "Behold, O Teacher, this mighty army of the sons of Pandu, arrayed by your wise disciple, the son of Drupada...",
+      "explanation": "Duryodhana lists the warriors on both sides, highlighting key figures like Bhima, Arjuna, Yudhishthira, and others. His tone is boastful yet nervous."
+    },
+    {
+      "number": "1.7",
+      "sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम। नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते॥",
+      "transliteration": "asmākaṃ tu viśiṣṭā ye tān nibodha dvijottama। nāyakā mama sainyasya saṃjñārthaṃ tān bravīmi te॥",
+      "translation": "But know, O best of Brahmins, the distinguished leaders of my army. I name them for your information.",
+      "explanation": "Duryodhana names his generals (like Bhishma, Karna, and Kripa) to assert confidence, though his need to list them hints at underlying fear."
+    },
+    {
+      "number": "1.8-9",
+      "sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः। अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च॥",
+      "transliteration": "bhavān bhīṣmaśca karṇaśca kṛpaśca samitiñjayaḥ। aśvatthāmā vikarṇaśca saumadattis tathaiva ca॥",
+      "translation": "There are warriors like you, Bhishma, Karna, Kripa, Ashwatthama, Vikarna, and the son of Somadatta, all victorious in battle.",
+      "explanation": "Duryodhana flatters his generals, emphasizing their invincibility to boost morale, though his reliance on them exposes his own inadequacy."
+    },
+    {
+      "number": "1.10",
+      "sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम्। पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम्॥",
+      "transliteration": "aparyāptaṃ tad asmākaṃ balaṃ bhīṣmābhirakṣitam। paryāptaṃ tv idam eteṣāṃ balaṃ bhīmābhirakṣitam॥",
+      "translation": "Our strength is immeasurable, protected by Grandsire Bhishma, while theirs is limited, guarded by Bhima.",
+      "explanation": "Duryodhana contrasts the armies’ strengths arrogantly, but the irony is that Bhishma’s protection is conditional (he won’t kill Pandavas), while Bhima is fiercely committed."
+    },
+    {
+      "number": "1.11-12",
+      "sanskrit": "अयनेषु च सर्वेषु यथाभागमवस्थिताः। भीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि॥",
+      "transliteration": "ayaneṣu ca sarveṣu yathā-bhāgam avasthitāḥ। bhīṣmam evābhirakṣantu bhavantaḥ sarva eva hi॥",
+      "translation": "Now, all of you must support Grandsire Bhishma, stationed at your respective strategic points.",
+      "explanation": "Duryodhana instructs his army to rally around Bhishma, revealing his dependence on the elders despite his earlier bravado."
+    },
+    {
+      "number": "1.13-19",
+      "sanskrit": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः। सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत्॥...॥",
+      "transliteration": "tataḥ śaṅkhāśca bheryaśca paṇavānaka-gomukhāḥ। sahasaivābhyahanyanta sa śabdas tumulo 'bhavat॥...॥",
+      "translation": "Then, conches, drums, and trumpets blared suddenly, creating a tumultuous uproar.",
+      "explanation": "The war’s commencement is marked by loud instruments, symbolizing the chaos and inevitability of conflict."
+    },
+    {
+      "number": "1.20-22",
+      "sanskrit": "अर्जुन उवाच। सेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत॥ यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान्। कैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे॥",
+      "transliteration": "arjuna uvāca। senayor ubhayor madhye rathaṃ sthāpaya me 'cyuta॥ yāvad etān nirīkṣe 'haṃ yoddhu-kāmān avasthitān। kair mayā saha yoddhavyam asmin raṇa-samudyame॥",
+      "translation": "Arjuna said: O Krishna, place my chariot between the two armies so I may see those arrayed here, eager to fight, and with whom I must engage in this battle.",
+      "explanation": "Arjuna’s request to Krishna (addressed as 'Achyuta'—the infallible one) shows his initial readiness, but his subsequent observation triggers his moral crisis."
+    },
+    {
+      "number": "1.23-24",
+      "sanskrit": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः। धार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः॥",
+      "transliteration": "yotsyamānān avekṣe 'haṃ ya ete 'tra samāgatāḥ। dhārtarāṣṭrasya durbuddher yuddhe priya-cikīrṣavaḥ॥",
+      "translation": "Let me see those who have come here to fight, wishing to please the evil-minded son of Dhritarashtra (Duryodhana).",
+      "explanation": "Arjuna refers to Duryodhana as 'evil-minded,' indicating his awareness of adharma (unrighteousness) on the Kaurava side."
+    },
+    {
+      "number": "1.25-27",
+      "sanskrit": "एवमुक्तो हृषीकेशो गुडाकेशेन भारत। सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम्॥...॥",
+      "transliteration": "evam ukto hṛṣīkeśo guḍākeśena bhārata। senayor ubhayor madhye sthāpayitvā rathottamam॥...॥",
+      "translation": "Sanjaya said: O descendant of Bharata, thus addressed by Arjuna, Krishna drew the finest chariot between the two armies.",
+      "explanation": "Krishna (Hrishikesha—lord of the senses) fulfills Arjuna’s request, positioning the chariot strategically for him to confront his dilemma."
+    },
+    {
+      "number": "1.28-30",
+      "sanskrit": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान्। आचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा॥...॥",
+      "transliteration": "tatrāpaśyat sthitān pārthaḥ pitṝn atha pitāmahān। ācāryān mātulān bhrātṝn putrān pautrān sakhīṃs tathā॥...॥",
+      "translation": "There, Arjuna saw fathers, grandfathers, teachers, uncles, brothers, sons, grandsons, and friends in both armies.",
+      "explanation": "Arjuna’s realization of familial bonds triggers his compassion and ethical conflict about killing kin."
+    },
+    {
+      "number": "1.31-35",
+      "sanskrit": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च। किं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा॥...॥",
+      "transliteration": "na kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca। kiṃ no rājyena govinda kiṃ bhogair jīvitena vā॥...॥",
+      "translation": "I desire neither victory, nor kingdom, nor pleasures. Of what use is dominion or life itself, O Krishna?",
+      "explanation": "Arjuna’s despair peaks as he questions the value of victory achieved through violence against loved ones."
+    },
+    {
+      "number": "1.36-38",
+      "sanskrit": "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन। पापमेवाश्रयेदस्मान्हत्वैतानाततायिनः॥...॥",
+      "transliteration": "nihatya dhārtarāṣṭrān naḥ kā prītiḥ syāj janārdana। pāpam evāśrayed asmān hatvaitān ātatāyinaḥ॥...॥",
+      "translation": "What joy is there in killing these sons of Dhritarashtra, O Janardana? Only sin will cling to us by slaying these aggressors.",
+      "explanation": "Arjuna argues that even if the Kauravas are aggressors, killing them would incur sin and destroy family traditions."
+    },
+    {
+      "number": "1.39-42",
+      "sanskrit": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः। धर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत॥...॥",
+      "transliteration": "kula-kṣaye praṇaśyanti kula-dharmāḥ sanātanāḥ। dharme naṣṭe kulaṃ kṛtsnam adharmo 'bhibhavaty uta॥...॥",
+      "translation": "With the destruction of the dynasty, eternal family virtues perish. When virtue is lost, the family descends into lawlessness.",
+      "explanation": "Arjuna fears societal collapse (varna-sankara) due to the war’s impact on familial and moral order."
+    },
+    {
+      "number": "1.43-44",
+      "sanskrit": "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः। उत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः॥...॥",
+      "transliteration": "doṣair etaiḥ kula-ghnānāṃ varṇa-saṅkara-kārakaiḥ। utsādyante jāti-dharmāḥ kula-dharmāś ca śāśvatāḥ॥...॥",
+      "translation": "Due to these sins of destroyers of families, which cause intermixture of castes, the eternal traditions of clans and families are ruined.",
+      "explanation": "Arjuna’s lament reflects his orthodox concern for dharma, though Krishna will later redefine duty beyond societal norms."
+    },
+    {
+      "number": "1.45",
+      "sanskrit": "अहो बत महत्पापं कर्तुं व्यवसिता वयम्। यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः॥",
+      "transliteration": "aho bata mahat pāpaṃ kartuṃ vyavasitā vayam। yad rājya-sukha-lobhena hantuṃ sva-janam udyatāḥ॥",
+      "translation": "Alas! How strange it is that we are prepared to commit great sins for the sake of royal pleasures, even to kill our own kinsmen.",
+      "explanation": "Arjuna recognizes the irony of his situation—his initial eagerness for battle now seems sinful and selfish."
+    },
+    {
+      "number": "1.46",
+      "sanskrit": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः। धार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत्॥",
+      "transliteration": "yadi mām apratīkāram aśastraṃ śastra-pāṇayaḥ। dhārtarāṣṭrā raṇe hanyus tan me kṣemataraṃ bhavet॥",
+      "translation": "It would be better for me if the sons of Dhritarashtra, weapons in hand, were to slay me unarmed and unresisting on the battlefield.",
+      "explanation": "Arjuna prefers death over fighting, showcasing his extreme despair and rejection of violence."
+    },
+    {
+      "number": "1.47",
+      "sanskrit": "सञ्जय उवाच। एवमुक्त्वार्जुनः संख्ये रथोपस्थ उपाविशत्। विसृज्य सशरं चापं शोकसंविग्नमानसः॥",
+      "transliteration": "sañjaya uvāca। evam uktvārjunaḥ saṅkhye rathopastha upāviśat। visṛjya sa-śaraṃ cāpaṃ śoka-saṃvigna-mānasaḥ॥",
+      "translation": "Sanjaya said: Having spoken thus, Arjuna cast aside his bow and arrows and sat down on the chariot, his mind overwhelmed with sorrow.",
+      "explanation": "The chapter ends with Arjuna’s surrender—literally dropping his weapons and metaphorically surrendering to Krishna for guidance, setting the stage for the Gita’s teachings."
+    }
+  ]
+}

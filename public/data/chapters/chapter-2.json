@@ -1,0 +1,505 @@
+{
+  "number": 2,
+  "title": "Sankhya Yoga",
+  "subtitle": "The Yoga of Knowledge",
+  "summary": "Krishna responds to Arjuna's grief with profound teachings on the eternal soul (Atman), the importance of duty (dharma), and the path of selfless action (Karma Yoga). This chapter introduces core philosophies of the Gita, including detachment, equanimity, and the nature of a wise person (sthitaprajña).",
+  "verses": [
+    {
+      "number": "2.1",
+      "sanskrit": "सञ्जय उवाच | तं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम् | विषीदन्तमिदं वाक्यमुवाच मधुसूदनः ||",
+      "transliteration": "sañjaya uvāca | taṃ tathā kṛpayāviṣṭam aśru-pūrṇākulekṣaṇam | viṣīdantam idaṃ vākyam uvāca madhusūdanaḥ ||",
+      "translation": "Sanjaya said: To Arjuna, who was overcome with pity, whose eyes were filled with tears and troubled, and who was despairing, Madhusudana (Krishna) spoke these words.",
+      "explanation": "Sanjaya narrates Arjuna's emotional collapse to Dhritarashtra. Krishna (as Madhusudana, the destroyer of ignorance) begins his divine discourse."
+    },
+    {
+      "number": "2.2",
+      "sanskrit": "श्रीभगवानुवाच | कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् | अनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन ||",
+      "transliteration": "śrī bhagavān uvāca | kutas tvā kaśmalam idaṃ viṣame samupasthitam | anārya-juṣṭam asvargyam akīrti-karam arjuna ||",
+      "translation": "The Blessed Lord said: From where has this impurity (delusion) come upon you at this critical hour? It is not befitting noble souls, nor leads to heaven, nor to glory, O Arjuna.",
+      "explanation": "Krishna admonishes Arjuna for his weakness, calling it unbecoming of a warrior and spiritually detrimental."
+    },
+    {
+      "number": "2.3",
+      "sanskrit": "क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते | क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप ||",
+      "transliteration": "klaibyaṃ mā sma gamaḥ pārtha naitat tvayy upapadyate | kṣudraṃ hṛdaya-daurbalyaṃ tyaktvottiṣṭha parantapa ||",
+      "translation": "Do not yield to unmanliness, O Partha! It does not befit you. Shake off this petty faint-heartedness and arise, O scorcher of foes!",
+      "explanation": "Krishna invokes Arjuna's warrior identity ('Parantapa'—one who troubles enemies) to rouse him from cowardice."
+    },
+    {
+      "number": "2.4",
+      "sanskrit": "अर्जुन उवाच | कथं भीष्ममहं सङ्ख्ये द्रोणं च मधुसूदन | इषुभिः प्रतियोत्स्यामि पूजार्हावरिसूदन ||",
+      "transliteration": "arjuna uvāca | kathaṃ bhīṣmam ahaṃ saṅkhye droṇaṃ ca madhusūdana | iṣubhiḥ pratiyotsyāmi pūjārhāv ari-sūdana ||",
+      "translation": "Arjuna said: O Madhusudana, how can I fight against Bhishma and Drona with arrows in battle, when they are worthy of worship, O slayer of enemies?",
+      "explanation": "Arjuna expresses his moral dilemma—his reverence for Bhishma (his grandfather) and Drona (his teacher) conflicts with his duty as a warrior."
+    },
+    {
+      "number": "2.5",
+      "sanskrit": "गुरूनहत्वा हि महानुभावान् श्रेयो भोक्तुं भैक्ष्यमपीह लोके | हत्वार्थकामांस्तु गुरूनिहैव भुञ्जीय भोगान् रुधिरप्रदिग्धान् ||",
+      "transliteration": "gurūn ahatvā hi mahānubhāvān śreyo bhoktuṃ bhaikṣyam apīha loke | hatvārtha-kāmāṃs tu gurūn ihaiva bhuñjīya bhogān rudhira-pradigdhān ||",
+      "translation": "It would be better to live in this world by begging than to slay these noble elders. If I kill them, I would enjoy wealth and desires stained with their blood.",
+      "explanation": "Arjuna argues that even survival as a beggar is preferable to the sin of killing his revered teachers for worldly gains."
+    },
+    {
+      "number": "2.6",
+      "sanskrit": "न चैतद्विद्मः कतरन्नो गरीयो यद्वा जयेम यदि वा नो जयेयुः | यानेव हत्वा न जिजीविषामस्तेऽवस्थिताः प्रमुखे धार्तराष्ट्राः ||",
+      "transliteration": "na caitad vidmaḥ kataran no garīyo yad vā jayema yadi vā no jayeyuḥ | yān eva hatvā na jijīviṣāmas te 'vasthitāḥ pramukhe dhārtarāṣṭrāḥ ||",
+      "translation": "Nor do we know which is better for us—to conquer them or to be conquered by them. The sons of Dhritarashtra stand before us; killing them, we would not desire to live.",
+      "explanation": "Arjuna is torn between victory (which requires killing his kin) and defeat (which means death). Both outcomes seem unbearable."
+    },
+    {
+      "number": "2.7",
+      "sanskrit": "कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसंमूढचेताः | यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ||",
+      "transliteration": "kārpaṇya-doṣopahata-svabhāvaḥ pṛcchāmi tvāṃ dharma-saṃmūḍha-cetāḥ | yac chreyaḥ syān niścitaṃ brūhi tan me śiṣyas te 'haṃ śādhi māṃ tvāṃ prapannam ||",
+      "translation": "My nature afflicted by the taint of pity, my mind confused about duty, I ask You: Tell me decisively what is good for me. I am Your disciple. Please instruct me, for I have taken refuge in You.",
+      "explanation": "Arjuna surrenders to Krishna as his guru, admitting his confusion and seeking divine guidance."
+    },
+    {
+      "number": "2.8",
+      "sanskrit": "न हि प्रपश्यामि ममापनुद्याद् यच्छोकमुच्छोषणमिन्द्रियाणाम् | अवाप्य भूमावसपत्नमृद्धं राज्यं सुराणामपि चाधिपत्यम् ||",
+      "transliteration": "na hi prapaśyāmi mamāpanudyād yac chokam ucchoṣaṇam indriyāṇām | avāpya bhūmāv asapatnam ṛddhaṃ rājyaṃ surāṇām api cādhipatyam ||",
+      "translation": "I do not see what would dispel this sorrow that dries up my senses, even if I were to attain unrivalled and prosperous kingship on earth or lordship over the gods.",
+      "explanation": "Arjuna confesses that no material power (even ruling heaven) can relieve his anguish, highlighting his spiritual crisis."
+    },
+    {
+      "number": "2.9",
+      "sanskrit": "सञ्जय उवाच | एवमुक्त्वा हृषीकेशं गुडाकेशः परन्तपः | न योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह ||",
+      "transliteration": "sañjaya uvāca | evam uktvā hṛṣīkeśaṃ guḍākeśaḥ parantapaḥ | na yotsya iti govindam uktvā tūṣṇīṃ babhūva ha ||",
+      "translation": "Sanjaya said: Having spoken thus to Hrishikesha (Krishna), Gudakesha (Arjuna), the scorcher of foes, told Govinda (Krishna), 'I will not fight,' and fell silent.",
+      "explanation": "Arjuna, the 'conqueror of sleep' (Gudakesha), resigns from battle, setting the stage for Krishna's teachings."
+    },
+    {
+      "number": "2.10",
+      "sanskrit": "तमुवाच हृषीकेशः प्रहसन्निव भारत | सेनयोरुभयोर्मध्ये विषीदन्तमिदं वचः ||",
+      "transliteration": "tam uvāca hṛṣīkeśaḥ prahasann iva bhārata | senayor ubhayor madhye viṣīdantam idaṃ vacaḥ ||",
+      "translation": "To him who was sorrowing between the two armies, Hrishikesha (Krishna), as if smiling, O Bharata, spoke these words.",
+      "explanation": "Krishna smiles at Arjuna's delusion, signaling the start of his divine discourse."
+    },
+    {
+      "number": "2.11",
+      "sanskrit": "श्रीभगवानुवाच | अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे | गतासूनगतासूंश्च नानुशोचन्ति पण्डिताः ||",
+      "transliteration": "śrī bhagavān uvāca | aśocyān anvaśocas tvaṃ prajñā-vādāṃś ca bhāṣase | gatāsūn agatāsūṃś ca nānuśocanti paṇḍitāḥ ||",
+      "translation": "The Blessed Lord said: You grieve for those who should not be grieved for, yet you speak words of wisdom. The wise do not mourn for the living or the dead.",
+      "explanation": "Krishna begins his teachings by pointing out Arjuna's contradiction—he speaks wisely but laments the inevitable (death), which the enlightened accept."
+    },
+    {
+      "number": "2.12",
+      "sanskrit": "न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः | न चैव न भविष्यामः सर्वे वयमतः परम् ||",
+      "transliteration": "na tv evāhaṃ jātu nāsaṃ na tvaṃ neme janādhipāḥ | na caiva na bhaviṣyāmaḥ sarve vayam ataḥ param ||",
+      "translation": "Never was there a time when I did not exist, nor you, nor these kings; nor shall we ever cease to be hereafter.",
+      "explanation": "Krishna introduces the immortality of the soul (Atman)—past, present, and future."
+    },
+    {
+      "number": "2.13",
+      "sanskrit": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा | तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति ||",
+      "transliteration": "dehino 'smin yathā dehe kaumāraṃ yauvanaṃ jarā | tathā dehāntara-prāptir dhīras tatra na muhyati ||",
+      "translation": "Just as the embodied soul continuously passes through childhood, youth, and old age, similarly, at death, it attains another body. The wise are not deluded by this.",
+      "explanation": "The soul (dehin) transitions through bodies like changing clothes—birth and death are natural, not to be feared."
+    },
+    {
+      "number": "2.14",
+      "sanskrit": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः | आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ||",
+      "transliteration": "mātrā-sparśās tu kaunteya śītoṣṇa-sukha-duḥkha-dāḥ | āgamāpāyino 'nityās tāṃs titikṣasva bhārata ||",
+      "translation": "O Kaunteya, the contacts of the senses with their objects give rise to fleeting perceptions of heat and cold, pleasure and pain. They come and go; endure them bravely, O Bharata.",
+      "explanation": "Krishna advises equanimity—worldly experiences (pleasure/pain) are temporary; the wise endure them without attachment."
+    },
+    {
+      "number": "2.15",
+      "sanskrit": "यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ | समदुःखसुखं धीरं सोऽमृतत्वाय कल्पते ||",
+      "transliteration": "yaṃ hi na vyathayanty ete puruṣaṃ puruṣarṣabha | sama-duḥkha-sukhaṃ dhīraṃ so 'mṛtatvāya kalpate ||",
+      "translation": "O best among men (Arjuna), the one whom these (dualities) do not disturb, who remains steady in pleasure and pain, is fit for immortality.",
+      "explanation": "The steadfast (dhira), unshaken by opposites (joy/sorrow), attains liberation (amritatva)."
+    },
+    {
+      "number": "2.16",
+      "sanskrit": "नासतो विद्यते भावो नाभावो विद्यते सतः | उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः ||",
+      "transliteration": "nāsato vidyate bhāvo nābhāvo vidyate sataḥ | ubhayor api dṛṣṭo 'ntas tv anayos tattva-darśibhiḥ ||",
+      "translation": "The unreal has no existence; the real never ceases to be. The seers of truth have concluded this by studying the nature of both.",
+      "explanation": "Krishna distinguishes the eternal (soul) from the temporary (body)—truth (sat) persists; illusion (asat) perishes."
+    },
+    {
+      "number": "2.17",
+      "sanskrit": "अविनाशि तु तद्विद्धि येन सर्वमिदं ततम् | विनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति ||",
+      "transliteration": "avināśi tu tad viddhi yena sarvam idaṃ tatam | vināśam avyayasyāsya na kaścit kartum arhati ||",
+      "translation": "Know that to be indestructible by which all this is pervaded. None can destroy the imperishable.",
+      "explanation": "The soul (Atman) pervades all creation and is beyond destruction."
+    },
+    {
+      "number": "2.18",
+      "sanskrit": "अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः | अनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत ||",
+      "transliteration": "antavanta ime dehā nityasyoktāḥ śarīriṇaḥ | anāśino 'prameyasya tasmād yudhyasva bhārata ||",
+      "translation": "These bodies of the embodied (soul) are said to be perishable; the soul is eternal, indestructible, and immeasurable. Therefore, fight, O Bharata!",
+      "explanation": "Krishna urges Arjuna to fight, emphasizing that the eternal soul cannot be killed—only the temporary body perishes."
+    },
+    {
+      "number": "2.19",
+      "sanskrit": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम् | उभौ तौ न विजानीतो नायं हन्ति न हन्यते ||",
+      "transliteration": "ya enaṃ vetti hantāraṃ yaś cainaṃ manyate hatam | ubhau tau na vijānīto nāyaṃ hanti na hanyate ||",
+      "translation": "One who thinks the soul kills or can be killed is mistaken. The soul neither kills nor is killed.",
+      "explanation": "The soul is beyond action—it does not act (kill) nor is it acted upon (killed)."
+    },
+    {
+      "number": "2.20",
+      "sanskrit": "न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः | अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ||",
+      "transliteration": "na jāyate mriyate vā kadācin nāyaṃ bhūtvā bhavitā vā na bhūyaḥ | ajo nityaḥ śāśvato 'yaṃ purāṇo na hanyate hanyamāne śarīre ||",
+      "translation": "The soul is unborn, eternal, everlasting, and primeval. It is not slain when the body is slain.",
+      "explanation": "The soul (Atman) transcends birth/death—it exists beyond time."
+    },
+    {
+      "number": "2.21",
+      "sanskrit": "वेदाविनाशिनं नित्यं य एनमजमव्ययम् | कथं स पुरुषः पार्थ कं घातयति हन्ति कम् ||",
+      "transliteration": "vedāvināśinaṃ nityaṃ ya enam ajam avyayam | kathaṃ sa puruṣaḥ pārtha kaṃ ghātayati hanti kam ||",
+      "translation": "O Partha, how can one who knows the soul to be imperishable, eternal, unborn, and immutable kill or cause another to kill?",
+      "explanation": "Krishna questions Arjuna's delusion—knowing the soul's immortality, how can one lament 'killing'?"
+    },
+    {
+      "number": "2.22",
+      "sanskrit": "वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि | तथा शरीराणि विहाय जीर्णान्यन्यानि संयाति नवानि देही ||",
+      "transliteration": "vāsāṃsi jīrṇāni yathā vihāya navāni gṛhṇāti naro 'parāṇi | tathā śarīrāṇi vihāya jīrṇāny anyāni saṃyāti navāni dehī ||",
+      "translation": "Just as a person casts off worn-out garments and puts on new ones, the soul casts off worn-out bodies and enters new ones.",
+      "explanation": "The soul (dehi) changes bodies like clothes—death is merely a transition."
+    },
+    {
+      "number": "2.23",
+      "sanskrit": "नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः | न चैनं क्लेदयन्त्यापो न शोषयति मारुतः ||",
+      "transliteration": "nainaṃ chindanti śastrāṇi nainaṃ dahati pāvakaḥ | na cainaṃ kledayanty āpo no śoṣayati mārutaḥ ||",
+      "translation": "Weapons cannot cut the soul, nor can fire burn it. Water cannot wet it, nor can the wind dry it.",
+      "explanation": "The soul is impervious to elemental forces—it is beyond physical harm."
+    },
+    {
+      "number": "2.24",
+      "sanskrit": "अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च | नित्यः सर्वगतः स्थाणुरचलोऽयं सनातनः ||",
+      "transliteration": "acchedyo 'yam adāhyo 'yam akledyo 'śoṣya eva ca | nityaḥ sarva-gataḥ sthāṇur acalo 'yaṃ sanātanaḥ ||",
+      "translation": "The soul is unbreakable, incombustible, insoluble, and unwithering. It is eternal, all-pervading, unchangeable, immovable, and primeval.",
+      "explanation": "Krishna describes the soul's indestructible nature—it is infinite and unchanging."
+    },
+    {
+      "number": "2.25",
+      "sanskrit": "अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते | तस्मादेवं विदित्वैनं नानुशोचितुमर्हसि ||",
+      "transliteration": "avyakto 'yam acintyo 'yam avikāryo 'yam ucyate | tasmād evaṃ viditvainaṃ nānuśocitum arhasi ||",
+      "translation": "The soul is said to be unmanifest, inconceivable, and immutable. Knowing this, you should not grieve.",
+      "explanation": "Since the soul is beyond perception and change, grief (for the body) is irrational."
+    },
+    {
+      "number": "2.26",
+      "sanskrit": "अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम् | तथापि त्वं महाबाहो नैवं शोचितुमर्हसि ||",
+      "transliteration": "atha cainaṃ nitya-jātaṃ nityaṃ vā manyase mṛtam | tathāpi tvaṃ mahā-bāho naivaṃ śocitum arhasi ||",
+      "translation": "Even if you think the soul is perpetually born or dies, still, O mighty-armed, you should not grieve.",
+      "explanation": "Even if Arjuna clings to false beliefs (e.g., the soul dies), grief is unwarranted—death is inevitable for all."
+    },
+    {
+      "number": "2.27",
+      "sanskrit": "जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च | तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि ||",
+      "transliteration": "jātasya hi dhruvo mṛtyur dhruvaṃ janma mṛtasya ca | tasmād aparihārye 'rthe na tvaṃ śocitum arhasi ||",
+      "translation": "For one who is born, death is certain, and for one who dies, birth is certain. Therefore, for what is unavoidable, you should not grieve.",
+      "explanation": "Birth and death are cyclical and inevitable—wisdom lies in accepting this truth."
+    },
+    {
+      "number": "2.28",
+      "sanskrit": "अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत | अव्यक्तनिधनान्येव तत्र का परिदेवना ||",
+      "transliteration": "avyaktādīni bhūtāni vyakta-madhyāni bhārata | avyakta-nidhanāny eva tatra kā paridevanā ||",
+      "translation": "All beings are unmanifest before birth, manifest in life, and unmanifest again after death. Why lament this?",
+      "explanation": "Krishna analogizes life to a cycle of appearance/disappearance—like seasons, it is natural."
+    },
+    {
+      "number": "2.29",
+      "sanskrit": "आश्चर्यवत्पश्यति कश्चिदेनमाश्चर्यवद्वदति तथैव चान्यः | आश्चर्यवच्चैनमन्यः शृणोति श्रुत्वाप्येनं वेद न चैव कश्चित् ||",
+      "transliteration": "āścarya-vat paśyati kaścid enam āścarya-vad vadati tathaiva cānyaḥ | āścarya-vac cainam anyaḥ śṛṇoti śrutvāpy enaṃ veda na caiva kaścit ||",
+      "translation": "Some see the soul as wondrous, some speak of it as wondrous, and some hear of it as wondrous, yet none truly know it.",
+      "explanation": "The soul's nature is so profound that even those who discuss it may not fully comprehend it."
+    },
+    {
+      "number": "2.30",
+      "sanskrit": "देही नित्यमवध्योऽयं देहे सर्वस्य भारत | तस्मात्सर्वाणि भूतानि न त्वं शोचितुमर्हसि ||",
+      "transliteration": "dehī nityam avadhyo 'yaṃ dehe sarvasya bhārata | tasmāt sarvāṇi bhūtāni na tvaṃ śocitum arhasi ||",
+      "translation": "The soul within the body is eternally indestructible, O Bharata. Therefore, you should not grieve for any being.",
+      "explanation": "Krishna concludes his discourse on the soul's immortality—grief for 'killing' is baseless."
+    },
+    {
+      "number": "2.31",
+      "sanskrit": "स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि | धर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते ||",
+      "transliteration": "sva-dharmam api cāvekṣya na vikampitum arhasi | dharmyād dhi yuddhāc chreyo 'nyat kṣatriyasya na vidyate ||",
+      "translation": "Considering your duty (dharma), you should not waver, for there is nothing higher for a kshatriya than a righteous war.",
+      "explanation": "Krishna shifts to duty—for a warrior (kshatriya), fighting a just war is the highest dharma."
+    },
+    {
+      "number": "2.32",
+      "sanskrit": "यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम् | सुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम् ||",
+      "transliteration": "yadṛcchayā copapannaṃ svarga-dvāram apāvṛtam | sukhinaḥ kṣatriyāḥ pārtha labhante yuddham īdṛśam ||",
+      "translation": "Happy are the kshatriyas, O Partha, who obtain such a war—an open gateway to heaven—unsought.",
+      "explanation": "A righteous war is a rare opportunity for a warrior to attain heaven (spiritual merit)."
+    },
+    {
+      "number": "2.33",
+      "sanskrit": "अथ चेत्त्वमिमं धर्म्यं सङ्ग्रामं न करिष्यसि | ततः स्वधर्मं कीर्तिं च हित्वा पापमवाप्स्यसि ||",
+      "transliteration": "atha cet tvam imaṃ dharmyaṃ saṅgrāmaṃ na kariṣyasi | tataḥ sva-dharmaṃ kīrtiṃ ca hitvā pāpam avāpsyasi ||",
+      "translation": "But if you refuse to fight this righteous war, abandoning your duty and honor, you will incur sin.",
+      "explanation": "Avoiding duty (adharma) leads to spiritual degradation and loss of honor."
+    },
+    {
+      "number": "2.34",
+      "sanskrit": "अकीर्तिं चापि भूतानि कथयिष्यन्ति तेऽव्ययाम् | सम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते ||",
+      "transliteration": "akīrtiṃ cāpi bhūtāni kathayiṣyanti te 'vyayām | sambhāvitasya cākīrtir maraṇād atiricyate ||",
+      "translation": "People will forever recount your disgrace, and for one honored, dishonor is worse than death.",
+      "explanation": "For a warrior, infamy (from cowardice) is more painful than death."
+    },
+    {
+      "number": "2.35",
+      "sanskrit": "भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः | येषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम् ||",
+      "transliteration": "bhayād raṇād uparataṃ maṃsyante tvāṃ mahā-rathāḥ | yeṣāṃ ca tvaṃ bahu-mato bhūtvā yāsyasi lāghavam ||",
+      "translation": "The great warriors will think you withdrew from battle out of fear, and you will lose their esteem.",
+      "explanation": "Arjuna's reputation as a 'maharatha' (great warrior) will be shattered if he flees."
+    },
+    {
+      "number": "2.36",
+      "sanskrit": "अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिताः | निन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम् ||",
+      "transliteration": "avācya-vādāṃś ca bahūn vadiṣyanti tavāhitāḥ | nindantas tava sāmarthyaṃ tato duḥkhataraṃ nu kim ||",
+      "translation": "Your enemies will slander you with cruel words, mocking your strength. What could be more painful?",
+      "explanation": "Krishna warns of the psychological torment Arjuna will face if he retreats."
+    },
+    {
+      "number": "2.37",
+      "sanskrit": "हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम् | तस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः ||",
+      "transliteration": "hato vā prāpsyasi svargaṃ jitvā vā bhokṣyase mahīm | tasmād uttiṣṭha kaunteya yuddhāya kṛta-niścayaḥ ||",
+      "translation": "Slain, you will attain heaven; victorious, you will enjoy the earth. Therefore, arise, O Kaunteya, resolved to fight!",
+      "explanation": "Krishna presents the win-win outcome: death grants heaven; victory grants earthly rule."
+    },
+    {
+      "number": "2.38",
+      "sanskrit": "सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ | ततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ||",
+      "transliteration": "sukha-duḥkhe same kṛtvā lābhālābhau jayājayau | tato yuddhāya yujyasva naivaṃ pāpam avāpsyasi ||",
+      "translation": "Treating pleasure and pain, gain and loss, victory and defeat alike, engage in battle. Thus, you will not incur sin.",
+      "explanation": "Equanimity (samatva) in outcomes purifies action—fighting without attachment avoids karma."
+    },
+    {
+      "number": "2.39",
+      "sanskrit": "एषा तेऽभिहिता साङ्ख्ये बुद्धिर्योगे त्विमां शृणु | बुद्ध्या युक्तो यया पार्थ कर्मबन्धं प्रहास्यसि ||",
+      "transliteration": "eṣā te 'bhihitā sāṅkhye buddhir yoge tv imāṃ śṛṇu | buddhyā yukto yayā pārtha karma-bandhaṃ prahāsyasi ||",
+      "translation": "Thus far, I have explained this wisdom in terms of Sankhya (knowledge). Now listen to it in terms of Yoga (action), by which, O Partha, you will free yourself from bondage.",
+      "explanation": "Krishna transitions from theoretical wisdom (Sankhya) to practical wisdom (Yoga of action)."
+    },
+    {
+      "number": "2.40",
+      "sanskrit": "नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते | स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् ||",
+      "transliteration": "nehābhikrama-nāśo 'sti pratyavāyo na vidyate | svalpam apy asya dharmasya trāyate mahato bhayāt ||",
+      "translation": "In this endeavor, there is no loss or diminution. Even a little practice of this dharma protects one from great fear.",
+      "explanation": "The path of Yoga (selfless action) has no downside—even partial effort yields protection from suffering."
+    },
+    {
+      "number": "2.41",
+      "sanskrit": "व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन | बहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम् ||",
+      "transliteration": "vyavasāyātmikā buddhir ekeha kuru-nandana | bahu-śākhā hy anantāś ca buddhayo 'vyavasāyinām ||",
+      "translation": "The resolute intellect is single-pointed, O Kurunandana, but the intellect of the irresolute is many-branched and endless.",
+      "explanation": "Focus (vyavasaya) on dharma leads to clarity; indecision breeds chaos."
+    },
+    {
+      "number": "2.42-43",
+      "sanskrit": "यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः | वेदवादरताः पार्थ नान्यदस्तीति वादिनः || कामात्मानः स्वर्गपरा जन्मकर्मफलप्रदाम् | क्रियाविशेषबहुलां भोगैश्वर्यगतिं प्रति ||",
+      "transliteration": "yām imāṃ puṣpitāṃ vācaṃ pravadanty avipaścitaḥ | veda-vāda-ratāḥ pārtha nānyad astīti vādinaḥ || kāmātmānaḥ svarga-parā janma-karma-phala-pradām | kriyā-viśeṣa-bahulāṃ bhogaiśvarya-gatiṃ prati ||",
+      "translation": "The undiscerning cling to flowery Vedic words, saying, 'There is nothing else.' Lusting for heaven, they advocate rituals for power and pleasure.",
+      "explanation": "Krishna criticizes ritualists who seek heavenly rewards (svarga) but lack wisdom of the soul."
+    },
+    {
+      "number": "2.44",
+      "sanskrit": "भोगैश्वर्यप्रसक्तानां तयापहृतचेतसाम् | व्यवसायात्मिका बुद्धिः समाधौ न विधीयते ||",
+      "transliteration": "bhogaiśvarya-prasaktānāṃ tayāpahṛta-cetasām | vyavasāyātmikā buddhiḥ samādhau na vidhīyate ||",
+      "translation": "Those obsessed with power and pleasure cannot attain the resolute intellect of meditation (samadhi).",
+      "explanation": "Material desires distract from spiritual focus."
+    },
+    {
+      "number": "2.45",
+      "sanskrit": "त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन | निर्द्वन्द्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान् ||",
+      "transliteration": "trai-guṇya-viṣayā vedā nistrai-guṇyo bhavārjuna | nirdvandvo nitya-sattva-stho niryoga-kṣema ātmavān ||",
+      "translation": "The Vedas deal with the three gunas (modes of nature). Rise above them, O Arjuna! Be free from dualities, established in purity (sattva), indifferent to gain and loss, and rooted in the Self.",
+      "explanation": "Krishna advises transcending the gunas (sattva, rajas, tamas) and worldly opposites (pleasure/pain)."
+    },
+    {
+      "number": "2.46",
+      "sanskrit": "यावानर्थ उदपाने सर्वतः संप्लुतोदके | तावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः ||",
+      "transliteration": "yāvān artha udapāne sarvataḥ samplutodake | tāvān sarveṣu vedeṣu brāhmaṇasya vijānataḥ ||",
+      "translation": "To the enlightened Brahmana, all the Vedas are as useful as a small pond when a great flood is everywhere.",
+      "explanation": "For the wise, scriptural rituals are redundant—they have realized the higher truth (Brahman)."
+    },
+    {
+      "number": "2.47",
+      "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन | मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ||",
+      "transliteration": "karmaṇy evādhikāras te mā phaleṣu kadācana | mā karma-phala-hetur bhūr mā te saṅgo 'stv akarmaṇi ||",
+      "translation": "Your right is to perform your duty only, but never to its fruits. Let not the fruits of action be your motive, nor let your attachment be to inaction.",
+      "explanation": "The essence of Karma Yoga—act without attachment to results, but never avoid duty."
+    },
+    {
+      "number": "2.48",
+      "sanskrit": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय | सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते ||",
+      "transliteration": "yoga-sthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanañjaya | siddhy-asiddhyoḥ samo bhūtvā samatvaṃ yoga ucyate ||",
+      "translation": "Perform action, O Dhananjaya, established in Yoga, abandoning attachment, and even-minded in success and failure. Equanimity is Yoga.",
+      "explanation": "Yoga is balance (samatva)—maintain inner peace regardless of outcomes."
+    },
+    {
+      "number": "2.49",
+      "sanskrit": "दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय | बुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः ||",
+      "transliteration": "dūreṇa hy avaraṃ karma buddhi-yogād dhanañjaya | buddhau śaraṇam anviccha kṛpaṇāḥ phala-hetavaḥ ||",
+      "translation": "Action is far inferior to the Yoga of wisdom, O Dhananjaya. Seek refuge in wisdom—pitiable are those motivated by results.",
+      "explanation": "Wisdom (Buddhi Yoga) surpasses mere ritualistic action—the greedy cling to rewards."
+    },
+    {
+      "number": "2.50",
+      "sanskrit": "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते | तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम् ||",
+      "transliteration": "buddhi-yukto jahātīha ubhe sukṛta-duṣkṛte | tasmād yogāya yujyasva yogaḥ karmasu kauśalam ||",
+      "translation": "The wise one rises above good and bad deeds in this life. Therefore, strive for Yoga—Yoga is skill in action.",
+      "explanation": "Wisdom liberates from karma (good/bad); Yoga is the art of selfless action."
+    },
+    {
+      "number": "2.51",
+      "sanskrit": "कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः | जन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम् ||",
+      "transliteration": "karma-jaṃ buddhi-yuktā hi phalaṃ tyaktvā manīṣiṇaḥ | janma-bandha-vinirmuktāḥ padaṃ gacchanty anāmayam ||",
+      "translation": "The wise, united with wisdom, renounce the fruits of action and are freed from the cycle of birth, attaining the state beyond sorrow.",
+      "explanation": "Detachment from results leads to liberation (moksha)."
+    },
+    {
+      "number": "2.52",
+      "sanskrit": "यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति | तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च ||",
+      "transliteration": "yadā te moha-kalilaṃ buddhir vyatitariṣyati | tadā gantāsi nirvedaṃ śrotavyasya śrutasya ca ||",
+      "translation": "When your intellect crosses the mire of delusion, you will become indifferent to what is heard and yet to be heard (in the Vedas).",
+      "explanation": "Wisdom dispels confusion—scriptural debates become irrelevant."
+    },
+    {
+      "number": "2.53",
+      "sanskrit": "श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला | समाधावचला बुद्धिस्तदा योगमवाप्स्यसि ||",
+      "transliteration": "śruti-vipratipannā te yadā sthāsyati niścalā | samādhāv acalā buddhis tadā yogam avāpsyasi ||",
+      "translation": "When your intellect, bewildered by conflicting scriptures, remains steady and unwavering in meditation, then you will attain Yoga.",
+      "explanation": "When the mind is fixed in samadhi (absorption), one transcends scriptural contradictions."
+    },
+    {
+      "number": "2.54",
+      "sanskrit": "अर्जुन उवाच | स्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव | स्थितधीः किं प्रभाषेत किमासीत व्रजेत किम् ||",
+      "transliteration": "arjuna uvāca | sthita-prajñasya kā bhāṣā samādhi-sthasya keśava | sthita-dhīḥ kiṃ prabhāṣeta kim āsīta vrajeta kim ||",
+      "translation": "Arjuna said: What are the marks of one steady in wisdom (sthitaprajña), O Kesava? How does one of stable mind speak, sit, and move?",
+      "explanation": "Arjuna asks Krishna to describe the traits of an enlightened person."
+    },
+    {
+      "number": "2.55",
+      "sanskrit": "श्रीभगवानुवाच | प्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान् | आत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते ||",
+      "transliteration": "śrī bhagavān uvāca | prajahāti yadā kāmān sarvān pārtha mano-gatān | ātmany evātmanā tuṣṭaḥ sthita-prajñas tadocyate ||",
+      "translation": "The Blessed Lord said: When one renounces all desires of the mind, O Partha, and is content in the Self by the Self, then one is called steady in wisdom.",
+      "explanation": "A sthitaprajña is free from cravings and finds fulfillment within."
+    },
+    {
+      "number": "2.56",
+      "sanskrit": "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः | वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते ||",
+      "transliteration": "duḥkheṣv anudvigna-manāḥ sukheṣu vigata-spṛhaḥ | vīta-rāga-bhaya-krodhaḥ sthita-dhīr munir ucyate ||",
+      "translation": "One whose mind is untroubled by sorrow, who does not crave pleasures, and who is free from attachment, fear, and anger—such a sage is called steady in wisdom.",
+      "explanation": "The wise remain calm in adversity, detached in pleasure, and free from negative emotions."
+    },
+    {
+      "number": "2.57",
+      "sanskrit": "यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम् | नाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता ||",
+      "transliteration": "yaḥ sarvatrānabhisnehas tat tat prāpya śubhāśubham | nābhinandati na dveṣṭi tasya prajñā pratiṣṭhitā ||",
+      "translation": "One who is unattached everywhere, who neither rejoices nor hates upon encountering good or evil—his wisdom is firmly established.",
+      "explanation": "Equanimity in all circumstances signifies wisdom."
+    },
+    {
+      "number": "2.58",
+      "sanskrit": "यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः | इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता ||",
+      "transliteration": "yadā saṃharate cāyaṃ kūrmo 'ṅgānīva sarvaśaḥ | indriyāṇīndriyārthebhyas tasya prajñā pratiṣṭhitā ||",
+      "translation": "When one withdraws the senses from sense objects, like a tortoise drawing in its limbs, wisdom is steady.",
+      "explanation": "Self-control (withdrawing senses from distractions) stabilizes the mind."
+    },
+    {
+      "number": "2.59",
+      "sanskrit": "विषया विनिवर्तन्ते निराहारस्य देहिनः | रसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते ||",
+      "transliteration": "viṣayā vinivartante nirāhārasya dehinaḥ | rasa-varjaṃ raso 'py asya paraṃ dṛṣṭvā nivartate ||",
+      "translation": "The embodied one may abstain from sense enjoyments, but the taste for them persists. Even this taste ceases when one realizes the Supreme.",
+      "explanation": "While sensory restraint is possible, true detachment comes only with divine realization."
+    },
+    {
+      "number": "2.60",
+      "sanskrit": "यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः | इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः ||",
+      "transliteration": "yatato hy api kaunteya puruṣasya vipaścitaḥ | indriyāṇi pramāthīni haranti prasabhaṃ manaḥ ||",
+      "translation": "The turbulent senses, O Kaunteya, forcibly carry away the mind of even a wise person striving for perfection.",
+      "explanation": "Senses are powerful—they can overwhelm even the discerning."
+    },
+    {
+      "number": "2.61",
+      "sanskrit": "तानि सर्वाणि संयम्य युक्त आसीत मत्परः | वशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता ||",
+      "transliteration": "tāni sarvāṇi saṃyamya yukta āsīta mat-paraḥ | vaśe hi yasyendriyāṇi tasya prajñā pratiṣṭhitā ||",
+      "translation": "One who restrains the senses and fixes the mind upon Me is said to be steadfast in wisdom.",
+      "explanation": "Mastery over senses and focus on Krishna (the Divine) stabilizes wisdom."
+    },
+    {
+      "number": "2.62",
+      "sanskrit": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते | सङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते ||",
+      "transliteration": "dhyāyato viṣayān puṃsaḥ saṅgas teṣūpajāyate | saṅgāt sañjāyate kāmaḥ kāmāt krodho 'bhijāyate ||",
+      "translation": "Brooding on sense objects breeds attachment; attachment breeds desire; desire breeds anger.",
+      "explanation": "The chain of desire: Contemplation → Attachment → Desire → Anger."
+    },
+    {
+      "number": "2.63",
+      "sanskrit": "क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः | स्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति ||",
+      "transliteration": "krodhād bhavati sammohaḥ sammohāt smṛti-vibhramaḥ | smṛti-bhraṃśād buddhi-nāśo buddhi-nāśāt praṇaśyati ||",
+      "translation": "Anger leads to delusion; delusion leads to memory loss; memory loss ruins wisdom; wisdom lost ensures ruin.",
+      "explanation": "Anger destroys discernment, leading to spiritual downfall."
+    },
+    {
+      "number": "2.64",
+      "sanskrit": "रागद्वेषवियुक्तैस्तु विषयानिन्द्रियैश्चरन् | आत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति ||",
+      "transliteration": "rāga-dveṣa-viyuktais tu viṣayān indriyaiś caran | ātma-vaśyair vidheyātmā prasādam adhigacchati ||",
+      "translation": "But one who controls the senses, free from attraction and aversion, and acts with discipline attains serenity.",
+      "explanation": "Self-discipline (not repression) brings inner peace."
+    },
+    {
+      "number": "2.65",
+      "sanskrit": "प्रसादे सर्वदुःखानां हानिरस्योपजायते | प्रसन्नचेतसो ह्याशु बुद्धिः पर्यवतिष्ठते ||",
+      "transliteration": "prasāde sarva-duḥkhānāṃ hānir asyopajāyate | prasanna-cetaso hy āśu buddhiḥ paryavatiṣṭhate ||",
+      "translation": "With serenity, all sorrows end, and the intellect of the serene quickly becomes steady.",
+      "explanation": "Peace dissolves suffering and stabilizes wisdom."
+    },
+    {
+      "number": "2.66",
+      "sanskrit": "नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना | न चाभावयतः शान्तिरशान्तस्य कुतः सुखम् ||",
+      "transliteration": "nāsti buddhir ayuktasya na cāyuktasya bhāvanā | na cābhāvayataḥ śāntir aśāntasya kutaḥ sukham ||",
+      "translation": "The undisciplined have no wisdom or meditation; without meditation, there is no peace. How can there be happiness without peace?",
+      "explanation": "Without self-mastery (yoga), one cannot attain peace or joy."
+    },
+    {
+      "number": "2.67",
+      "sanskrit": "इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते | तदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि ||",
+      "transliteration": "indriyāṇāṃ hi caratāṃ yan mano 'nuvidhīyate | tad asya harati prajñāṃ vāyur nāvam ivāmbhasi ||",
+      "translation": "Just as a boat on water is swept away by wind, so too the mind chasing senses carries away wisdom.",
+      "explanation": "Uncontrolled senses destabilize the intellect like a storm tosses a ship."
+    },
+    {
+      "number": "2.68",
+      "sanskrit": "तस्माद्यस्य महाबाहो निगृहीतानि सर्वशः | इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता ||",
+      "transliteration": "tasmād yasya mahā-bāho nigṛhītāni sarvaśaḥ | indriyāṇīndriyārthebhyas tasya prajñā pratiṣṭhitā ||",
+      "translation": "Therefore, O mighty-armed, one whose senses are restrained from their objects has steady wisdom.",
+      "explanation": "Sensory mastery is the key to unwavering discernment."
+    },
+    {
+      "number": "2.69",
+      "sanskrit": "या निशा सर्वभूतानां तस्यां जागर्ति संयमी | यस्यां जाग्रति भूतानि सा निशा पश्यतो मुनेः ||",
+      "transliteration": "yā niśā sarva-bhūtānāṃ tasyāṃ jāgarti saṃyamī | yasyāṃ jāgrati bhūtāni sā niśā paśyato muneḥ ||",
+      "translation": "What is night for all beings is the time of awakening for the disciplined; when others are awake, that is night for the sage.",
+      "explanation": "The wise perceive reality differently—they are 'awake' to truth while others 'sleep' in ignorance."
+    },
+    {
+      "number": "2.70",
+      "sanskrit": "आपूर्यमाणमचलप्रतिष्ठं समुद्रमापः प्रविशन्ति यद्वत् | तद्वत्कामा यं प्रविशन्ति सर्वे स शान्तिमाप्नोति न कामकामी ||",
+      "transliteration": "āpūryamāṇam acala-pratiṣṭhaṃ samudram āpaḥ praviśanti yadvat | tadvat kāmā yaṃ praviśanti sarve sa śāntim āpnoti na kāma-kāmī ||",
+      "translation": "As the ocean remains undisturbed by the flow of rivers, so the sage remains unmoved by desires. Such a person attains peace, not the desire-ridden.",
+      "explanation": "The wise, like the ocean, remain undisturbed by desires (inflowing rivers)."
+    },
+    {
+      "number": "2.71",
+      "sanskrit": "विहाय कामान्यः सर्वान्पुमांश्चरति निःस्पृहः | निर्ममो निरहंकारः स शान्तिमधिगच्छति ||",
+      "transliteration": "vihāya kāmān yaḥ sarvān pumāṃś carati niḥspṛhaḥ | nirmamo nirahaṃkāraḥ sa śāntim adhigacchati ||",
+      "translation": "One who abandons all desires, free from longing and ego, attains peace.",
+      "explanation": "Renouncing cravings, possessiveness, and ego leads to serenity."
+    },
+    {
+      "number": "2.72",
+      "sanskrit": "एषा ब्राह्मी स्थितिः पार्थ नैनां प्राप्य विमुह्यति | स्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति ||",
+      "transliteration": "eṣā brāhmī sthitiḥ pārtha naināṃ prāpya vimuhyati | sthitvāsyām antakāle 'pi brahma-nirvāṇam ṛcchati ||",
+      "translation": "This is the state of the divine (Brahmi), O Partha. Attaining this, one is no longer deluded. Established in this even at the time of death, one attains liberation (Brahmanirvana).",
+      "explanation": "The chapter concludes with the pinnacle of wisdom—liberation (union with Brahman) for those steadfast in truth."
+    }
+  ]
+}

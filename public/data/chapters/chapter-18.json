@@ -1,0 +1,393 @@
+{
+  "number": 18,
+  "title": "Moksha Sannyasa Yoga",
+  "subtitle": "The Yoga of Liberation and Renunciation",
+  "summary": "In this culminating chapter, Krishna delivers His final teachings to Arjuna, synthesizing all the wisdom of the Gita. He explains the three types of sacrifice, charity, and austerity according to the three gunas (modes of nature). Krishna reveals the supreme knowledge of performing one's prescribed duty (svadharma) with devotion as the path to perfection. The chapter concludes with Krishna's instruction to abandon all varieties of religion and simply surrender unto Him, promising that He will deliver Arjuna from all sins. Arjuna, his doubts dispelled, resolves to act according to Krishna's words.",
+  "verses": [
+    {
+      "number": "18.1",
+      "sanskrit": "अर्जुन उवाच | संन्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम् | त्यागस्य च हृषीकेश पृथक्केशिनिषूदन ||",
+      "transliteration": "arjuna uvāca | sannyāsasya mahā-bāho tattvam icchāmi veditum | tyāgasya ca hṛṣīkeśa pṛthak keśi-niṣūdana ||",
+      "translation": "Arjuna said: O mighty-armed one, O slayer of the Keshi demon, O Hrishikesha, I wish to understand the truth of renunciation (sannyasa) and abandonment (tyaga).",
+      "explanation": "Arjuna seeks clarity on the distinction between formal renunciation and the spirit of relinquishment."
+    },
+    {
+      "number": "18.2",
+      "sanskrit": "श्रीभगवानुवाच | काम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः | सर्वकर्मफलत्यागं प्राहुस्त्यागं विचक्षणाः ||",
+      "transliteration": "śrī bhagavān uvāca | kāmyānāṃ karmaṇāṃ nyāsaṃ sannyāsaṃ kavayo viduḥ | sarva-karma-phala-tyāgaṃ prāhus tyāgaṃ vicakṣaṇāḥ ||",
+      "translation": "The Blessed Lord said: The wise understand sannyasa to be the renunciation of desire-driven actions. The learned declare tyaga to be the abandonment of fruits from all actions.",
+      "explanation": "Krishna distinguishes between renouncing selfish actions and renouncing attachment to results."
+    },
+    {
+      "number": "18.3",
+      "sanskrit": "त्याज्यं दोषवदित्येके कर्म प्राहुर्मनीषिणः | यज्ञदानतपःकर्म न त्याज्यमिति चापरे ||",
+      "transliteration": "tyājyaṃ doṣa-vad ity eke karma prāhur manīṣiṇaḥ | yajña-dāna-tapaḥ-karma na tyājyam iti cāpare ||",
+      "translation": "Some sages declare that all actions should be abandoned as faulty, while others maintain that acts of sacrifice, charity and austerity should never be relinquished.",
+      "explanation": "Different philosophical views on renunciation are presented."
+    },
+    {
+      "number": "18.4",
+      "sanskrit": "निश्चयं शृणु मे तत्र त्यागे भरतसत्तम | त्यागो हि पुरुषव्याघ्र त्रिविधः संप्रकीर्तितः ||",
+      "transliteration": "niścayaṃ śṛṇu me tatra tyāge bharata-sattama | tyāgo hi puruṣa-vyāghra tri-vidhaḥ saṃprakīrtitaḥ ||",
+      "translation": "O best of the Bharatas, hear My conclusive judgment on abandonment. O tiger among men, abandonment is declared to be of three kinds.",
+      "explanation": "Krishna prepares to explain the threefold classification according to the gunas."
+    },
+    {
+      "number": "18.5-7",
+      "sanskrit": "यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत् | यज्ञो दानं तपश्चैव पावनानि मनीषिणाम् || एतान्यपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च | कर्तव्यानीति मे पार्थ निश्चितं मतमुत्तमम् || नियतस्य तु संन्यासः कर्मणो नोपपद्यते | मोहात्तस्य परित्यागस्तामसः परिकीर्तितः ||",
+      "transliteration": "yajña-dāna-tapaḥ-karma na tyājyaṃ kāryam eva tat | yajño dānaṃ tapaś caiva pāvanāni manīṣiṇām || etāny api tu karmāṇi saṅgaṃ tyaktvā phalāni ch | kartavyānīti me pārtha niścitaṃ matam uttamam || niyatasya tu sannyāsaḥ karmaṇo nopapadyate | mohāt tasya parityāgas tāmasaḥ parikīrtitaḥ ||",
+      "translation": "Acts of sacrifice, charity and austerity should never be abandoned; they must certainly be performed. Indeed, sacrifice, charity and austerity purify even the wise. But even these actions should be performed without attachment to the results. This is My definitive opinion, O Partha. Renunciation of obligatory duties is improper. Such abandonment out of delusion is declared to be in the mode of ignorance.",
+      "explanation": "Essential duties should never be abandoned, but performed without attachment."
+    },
+    {
+      "number": "18.8",
+      "sanskrit": "दुःखमित्येव यत्कर्म कायक्लेशभयात्त्यजेत् | स कृत्वा राजसं त्यागं नैव त्यागफलं लभेत् ||",
+      "transliteration": "duḥkham ity eva yat karma kāya-kleśa-bhayāt tyajet | sa kṛtvā rājasaṃ tyāgaṃ naiva tyāga-phalaṃ labhet ||",
+      "translation": "One who abandons duty merely because it is difficult or because of bodily inconvenience, performs such abandonment in the mode of passion. He will never attain the fruit of renunciation.",
+      "explanation": "Avoiding duty due to physical discomfort is passionate renunciation."
+    },
+    {
+      "number": "18.9",
+      "sanskrit": "कार्यमित्येव यत्कर्म नियतं क्रियतेऽर्जुन | सङ्गं त्यक्त्वा फलं चैव स त्यागः सात्त्विको मतः ||",
+      "transliteration": "kāryam ity eva yat karma niyataṃ kriyate 'rjuna | saṅgaṃ tyaktvā phalaṃ caiva sa tyāgaḥ sāttviko mataḥ ||",
+      "translation": "O Arjuna, when one performs his prescribed duty simply because it ought to be done, abandoning attachment and the fruits, such abandonment is considered in the mode of goodness.",
+      "explanation": "Performing duty as obligation, without attachment, is pure renunciation."
+    },
+    {
+      "number": "18.10",
+      "sanskrit": "न द्वेष्ट्यकुशलं कर्म कुशले नानुषज्जते | त्यागी सत्त्वसमाविष्टो मेधावी छिन्नसंशयः ||",
+      "transliteration": "na dveṣṭy akuśalaṃ karma kuśale nānuṣajjate | tyāgī sattva-samāviṣṭo medhāvī chinna-saṃśayaḥ ||",
+      "translation": "The renouncer in the mode of goodness neither hates disagreeable work nor is attached to agreeable work. Endowed with wisdom, his doubts are dispelled.",
+      "explanation": "The enlightened renouncer maintains equanimity toward all work."
+    },
+    {
+      "number": "18.11",
+      "sanskrit": "न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः | यस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते ||",
+      "transliteration": "na hi deha-bhṛtā śakyaṃ tyaktuṃ karmāṇy aśeṣataḥ | yas tu karma-phala-tyāgī sa tyāgīty abhidhīyate ||",
+      "translation": "For the embodied being, it is impossible to abandon actions completely. But one who relinquishes the fruits of action is called a true renouncer.",
+      "explanation": "Complete inaction is impossible; true renunciation means detachment from results."
+    },
+    {
+      "number": "18.12-13",
+      "sanskrit": "अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम् | भवत्यत्यागिनां प्रेत्य न तु संन्यासिनां क्वचित् || पञ्चैतानि महाबाहो कारणानि निबोध मे | साङ्ख्ये कृतान्ते प्रोक्तानि सिद्धये सर्वकर्मणाम् ||",
+      "transliteration": "aniṣṭam iṣṭaṃ miśraṃ ca tri-vidhaṃ karmaṇaḥ phalam | bhavaty atyāgināṃ pretya na tu sannyāsināṃ kvacit || pañcaitāni mahā-bāho kāraṇāni nibodha me | sāṅkhye kṛtānte proktāni siddhaye sarva-karmaṇām ||",
+      "translation": "For non-renouncers, there are three kinds of results after death - undesirable, desirable and mixed. But renouncers never incur such results. O mighty-armed, learn from Me the five factors for accomplishing all actions, as described in the Sankhya philosophy.",
+      "explanation": "Krishna introduces the five factors of action."
+    },
+    {
+      "number": "18.14",
+      "sanskrit": "अधिष्ठानं तथा कर्ता करणं च पृथग्विधम् | विविधाश्च पृथक्चेष्टा दैवं चैवात्र पञ्चमम् ||",
+      "transliteration": "adhiṣṭhānaṃ tathā kartā karaṇaṃ ca pṛthag-vidham | vividhāś ca pṛthak ceṣṭā daivaṃ caivātra pañcamam ||",
+      "translation": "The body (seat of action), the doer, the various senses, the many kinds of endeavors, and ultimately the Supersoul - these are the five factors of action.",
+      "explanation": "The five components enabling any action: 1) The body 2) The ego 3) The senses 4) The effort 5) The Supersoul"
+    },
+    {
+      "number": "18.15-16",
+      "sanskrit": "शरीरवाङ्मनोभिर्यत्कर्म प्रारभते नरः | न्याय्यं वा विपरीतं वा पञ्चैते तस्य हेतवः || तत्रैवं सति कर्तारमात्मानं केवलं तु यः | पश्यत्यकृतबुद्धित्वान्न स पश्यति दुर्मतिः ||",
+      "transliteration": "śarīra-vāṅ-manobhir yat karma prārabhate naraḥ | nyāyyaṃ vā viparītaṃ vā pañcaite tasya hetavaḥ || tatraivaṃ sati kartāram ātmānaṃ kevalaṃ tu yaḥ | paśyaty akṛta-buddhitvān na sa paśyati durmatiḥ ||",
+      "translation": "Whatever action a man performs by his body, speech or mind - whether right or wrong - these five are its causes. One who, due to imperfect understanding, sees himself as the sole doer, certainly does not see rightly.",
+      "explanation": "Foolish is he who considers himself the only agent, ignoring the other four factors."
+    },
+    {
+      "number": "18.17",
+      "sanskrit": "यस्य नाहंकृतो भावो बुद्धिर्यस्य न लिप्यते | हत्वाऽपि स इमाँल्लोकान्न हन्ति न निबध्यते ||",
+      "transliteration": "yasya nāhaṅkṛto bhāvo buddhir yasya na lipyate | hatvā 'pi sa imāḻ lokān na hanti na nibadhyate ||",
+      "translation": "One who is free from egoistic mentality, whose intelligence is untainted, though he slays these people, neither slays nor is bound by the action.",
+      "explanation": "The enlightened warrior acts without ego or attachment."
+    },
+    {
+      "number": "18.18",
+      "sanskrit": "ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना | करणं कर्म कर्तेति त्रिविधः कर्मसंग्रहः ||",
+      "transliteration": "jñānaṃ jñeyaṃ parijñātā tri-vidhā karma-codanā | karaṇaṃ karma karteti tri-vidhaḥ karma-saṅgrahaḥ ||",
+      "translation": "Knowledge, the object of knowledge, and the knower are the threefold impetus to action. The senses, the work, and the doer comprise the threefold basis of action.",
+      "explanation": "Threefold divisions related to knowledge and action."
+    },
+    {
+      "number": "18.19-20",
+      "sanskrit": "ज्ञानं कर्म च कर्ता च त्रिधैव गुणभेदतः | प्रोच्यते गुणसङ्ख्याने यथावच्छृणु तान्यपि || सर्वभूतेषु येनैकं भावमव्ययमीक्षते | अविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्त्विकम् ||",
+      "transliteration": "jñānaṃ karma ca kartā ca tridhaiva guṇa-bhedataḥ | procyate guṇa-saṅkhyāne yathāvac chṛṇu tāny api || sarva-bhūteṣu yenaikaṃ bhāvam avyayam īkṣate | avibhaktaṃ vibhakteṣu taj jñānaṃ viddhi sāttvikam ||",
+      "translation": "Knowledge, action and the doer are of three kinds according to the modes of nature. Hear of them as described in the analysis of the gunas. That knowledge by which one sees the one imperishable divine existence in all beings, undivided in the divided, know that knowledge to be in the mode of goodness.",
+      "explanation": "Knowledge in goodness perceives unity in diversity."
+    },
+    {
+      "number": "18.21-22",
+      "sanskrit": "पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान् | वेत्ति सर्वेषु भूतेषु तज्ज्ञानं विद्धि राजसम् || यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम् | अतत्त्वार्थवदल्पं च तत्तामसमुदाहृतम् ||",
+      "transliteration": "pṛthaktvena tu yaj jñānaṃ nānā-bhāvān pṛthag-vidhān | vetti sarveṣu bhūteṣu taj jñānaṃ viddhi rājasam || yat tu kṛtsna-vad ekasmin kārye saktam ahaitukam | atattvārtha-vad alpaṃ ca tat tāmasam udāhṛtam ||",
+      "translation": "But that knowledge which sees diverse entities of various kinds as separate from one another, know that knowledge to be in the mode of passion. While that knowledge which is attached to one single effect as if it were all, without reason, without foundation in truth, and trivial - that is declared to be in the mode of darkness.",
+      "explanation": "Passionate knowledge sees divisions; ignorant knowledge is narrow and baseless."
+    },
+    {
+      "number": "18.23-25",
+      "sanskrit": "नियतं सङ्गरहितमरागद्वेषतः कृतम् | अफलप्रेप्सुना कर्म यत्तत्सात्त्विकमुच्यते || यत्तु कामेप्सुना कर्म साहंकारेण वा पुनः | क्रियते बहुलायासं तद्राजसमुदाहृतम् || अनुबन्धं क्षयं हिंसामनपेक्ष्य च पौरुषम् | मोहादारभ्यते कर्म यत्तत्तामसमुच्यते ||",
+      "transliteration": "niyataṃ saṅga-rahitam arāga-dveṣataḥ kṛtam | aphala-prepsunā karma yat tat sāttvikam ucyate || yat tu kāmepsunā karma sāhaṅkāreṇa vā punaḥ | kriyate bahulāyāsaṃ tad rājasam udāhṛtam || anubandhaṃ kṣayaṃ hiṃsām anapekṣya ca pauruṣam | mohād ārabhyate karma yat tat tāmasam ucyate ||",
+      "translation": "An action performed as duty, without attachment, without love or hatred, and without desire for reward, is declared to be in the mode of goodness. But action performed with great effort by one seeking to gratify desires, and enacted from a sense of false ego, is called action in the mode of passion. That action undertaken from delusion, disregarding consequences, loss, injury, and one's ability, is declared to be in the mode of ignorance.",
+      "explanation": "The three types of action according to the gunas: selfless duty (sattva), selfish effort (rajas), and deluded action (tamas)."
+    },
+    {
+      "number": "18.26-28",
+      "sanskrit": "मुक्तसङ्गोऽनहंवादी धृत्युत्साहसमन्वितः | सिद्ध्यसिद्ध्योर्निर्विकारः कर्ता सात्त्विक उच्यते || रागी कर्मफलप्रेप्सुर्लुब्धो हिंसात्मकोऽशुचिः | हर्षशोकान्वितः कर्ता राजसः परिकीर्तितः || अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः | विषादी दीर्घसूत्री च कर्ता तामस उच्यते ||",
+      "transliteration": "mukta-saṅgo 'nahaṁ-vādī dhṛty-utsāha-samanvitaḥ | siddhy-asiddhyor nirvikāraḥ kartā sāttvika ucyate || rāgī karma-phala-prepsur lubdho hiṃsātmako 'śuciḥ | harṣa-śokānvitaḥ kartā rājasaḥ parikīrtitaḥ || ayuktaḥ prākṛtaḥ stabdhaḥ śaṭho naiṣkṛtiko 'lasaḥ | viṣādī dīrgha-sūtrī ca kartā tāmasa ucyate ||",
+      "translation": "The doer in goodness is free from attachment, non-egotistic, endowed with resolve and enthusiasm, and unperturbed in success or failure. The doer in passion is greedy, cruel, impure, moved by joy and sorrow, and desirous of the fruits of action. The doer in ignorance is undisciplined, vulgar, stubborn, deceitful, malicious, lazy, morose, and procrastinating.",
+      "explanation": "The three types of performers according to their dominant guna."
+    },
+    {
+      "number": "18.29-30",
+      "sanskrit": "बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं शृणु | प्रोच्यमानमशेषेण पृथक्त्वेन धनञ्जय || प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये | बन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी ||",
+      "transliteration": "buddher bhedaṃ dhṛteś caiva guṇatas tri-vidhaṃ śṛṇu | procyamānam aśeṣeṇa pṛthaktvena dhanañjaya || pravṛttiṃ ca nivṛttiṃ ca kāryākārye bhayābhaye | bandhaṃ mokṣaṃ ca yā vetti buddhiḥ sā pārtha sāttvikī ||",
+      "translation": "O Dhananjaya, hear from Me fully and separately about the threefold division of intellect and steadiness according to the modes. O Partha, that intellect which understands action and inaction, what ought to be done and what ought not to be done, fear and fearlessness, bondage and liberation, is in the mode of goodness.",
+      "explanation": "Intellect in goodness discerns right action, duty, and spiritual truth."
+    },
+    {
+      "number": "18.31-32",
+      "sanskrit": "यया धर्ममधर्मं च कार्यं चाकार्यमेव च | अयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी || अधर्मं धर्ममिति या मन्यते तमसावृता | सर्वार्थान्विपरीतांश्च बुद्धिः सा पार्थ तामसी ||",
+      "transliteration": "yayā dharmam adharmaṃ ca kāryaṃ cākāryam eva ca | ayathāvat prajānāti buddhiḥ sā pārtha rājasī || adharmaṃ dharmam iti yā manyate tamasāvṛtā | sarvārthān viparītāṃś ca buddhiḥ sā pārtha tāmasī ||",
+      "translation": "O Partha, that intellect which cannot distinguish between religion and irreligion, between action that should and should not be done, is in the mode of passion. That intellect which, shrouded in darkness, accepts irreligion as religion and regards all things contrary to their true nature, O Partha, is in the mode of ignorance.",
+      "explanation": "Passionate intellect confuses right and wrong; ignorant intellect reverses them."
+    },
+    {
+      "number": "18.33-35",
+      "sanskrit": "धृत्या यया धारयते मनःप्राणेन्द्रियक्रियाः | योगेनाव्यभिचारिण्या धृतिः सा पार्थ सात्त्विकी || यया तु धर्मकामार्थान्धृत्या धारयतेऽर्जुन | प्रसङ्गेन फलाकाङ्क्षी धृतिः सा पार्थ राजसी || यया स्वप्नं भयं शोकं विषादं मदमेव च | न विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी ||",
+      "transliteration": "dhṛtyā yayā dhārayate manaḥ-prāṇendriya-kriyāḥ | yogenāvyabhicāriṇyā dhṛtiḥ sā pārtha sāttvikī || yayā tu dharma-kāmārthān dhṛtyā dhārayate 'rjuna | prasaṅgena phalākāṅkṣī dhṛtiḥ sā pārtha rājasī || yayā svapnaṃ bhayaṃ śokaṃ viṣādaṃ madam eva ca | na vimuñcati durmedhā dhṛtiḥ sā pārtha tāmasī ||",
+      "translation": "O Partha, that unwavering steadiness by which one controls the activities of the mind, prana and senses through yoga practice, is in the mode of goodness. But that steadiness by which one holds to duty, desire and wealth, with attachment, longing for their fruits, O Arjuna, is in the mode of passion. And that steadiness by which a foolish person does not abandon sleep, fear, grief, despair and conceit, O Partha, is in the mode of ignorance.",
+      "explanation": "The three types of determination: spiritual (sattva), worldly (rajas), and obstinate (tamas)."
+    },
+    {
+      "number": "18.36-39",
+      "sanskrit": "सुखं त्विदानीं त्रिविधं शृणु मे भरतर्षभ | अभ्यासाद्रमते यत्र दुःखान्तं च निगच्छति || यत्तदग्रे विषमिव परिणामेऽमृतोपमम् | तत्सुखं सात्त्विकं प्रोक्तमात्मबुद्धिप्रसादजम् || विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम् | परिणामे विषमिव तत्सुखं राजसं स्मृतम् || यदग्रे चानुबन्धे च सुखं मोहनमात्मनः | निद्रालस्यप्रमादोत्थं तत्तामसमुदाहृतम् ||",
+      "transliteration": "sukhaṃ tv idānīṃ tri-vidhaṃ śṛṇu me bharatarṣabha | abhyāsād ramate yatra duḥkhāntaṃ ca nigacchati || yat tad agre viṣam iva pariṇāme 'mṛtopamam | tat sukhaṃ sāttvikaṃ proktam ātma-buddhi-prasādajam || viṣayendriya-saṃyogād yat tad agre 'mṛtopamam | pariṇāme viṣam iva tat sukhaṃ rājasaṃ smṛtam || yad agre cānubandhe ca sukhaṃ mohanam ātmanaḥ | nidrālasya-pramādotthaṃ tat tāmasam udāhṛtam ||",
+      "translation": "O best of the Bharatas, now hear from Me about the three kinds of happiness. That in which one finds delight through practice and which brings an end to suffering, which is like poison at first but like nectar at the end - such happiness is said to be in the mode of goodness, arising from a clear intellect. That happiness which arises from contact of the senses with their objects, which is like nectar at first but like poison at the end - such happiness is declared to be in the mode of passion. And that happiness which is delusive from beginning to end, arising from sleep, laziness and illusion - such happiness is said to be in the mode of darkness.",
+      "explanation": "The three types of happiness: spiritual joy (sattva), sensual pleasure (rajas), and ignorant sloth (tamas)."
+    },
+    {
+      "number": "18.40",
+      "sanskrit": "न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः | सत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्त्रिभिर्गुणैः ||",
+      "transliteration": "na tad asti pṛthivyāṃ vā divi deveṣu vā punaḥ | sattvaṃ prakṛti-jair muktaṃ yad ebhiḥ syāt tribhir guṇaiḥ ||",
+      "translation": "There is no being on earth, or among the gods in heaven, free from these three modes born of material nature.",
+      "explanation": "All embodied beings are influenced by the three gunas."
+    },
+    {
+      "number": "18.41-44",
+      "sanskrit": "ब्राह्मणक्षत्रियविशां शूद्राणां च परन्तप | कर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः || शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च | ज्ञानं विज्ञानमास्तिक्यं ब्रह्मकर्म स्वभावजम् || शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम् | दानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम् || कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम् | परिचर्यात्मकं कर्म शूद्रस्यापि स्वभावजम् ||",
+      "transliteration": "brāhmaṇa-kṣatriya-viśāṃ śūdrāṇāṃ ca parantapa | karmāṇi pravibhaktāni svabhāva-prabhavair guṇaiḥ || śamo damas tapaḥ śaucaṃ kṣāntir ārjavam eva cha | jñānaṃ vijñānam āstikyaṃ brahma-karma svabhāva-jam || śauryaṃ tejo dhṛtir dākṣyaṃ yuddhe cāpy apalāyanam | dānam īśvara-bhāvaś ca kṣātraṃ karma svabhāva-jam || kṛṣi-gaurakṣya-vāṇijyaṃ vaiśya-karma svabhāva-jam | paricaryātmakaṃ karma śūdrasyāpi svabhāva-jam ||",
+      "translation": "O conqueror of foes, the duties of brahmanas, kshatriyas, vaishyas and shudras are distributed according to the qualities born of their own nature. Peacefulness, self-control, austerity, purity, tolerance, honesty, wisdom, knowledge and religiousness - these are the natural duties of brahmanas. Heroism, power, determination, resourcefulness, courage in battle, generosity and leadership are the natural duties of kshatriyas. Farming, cattle-rearing and business are the natural duties of vaishyas. And service is the natural duty of shudras.",
+      "explanation": "The four varnas and their inherent duties based on guna and karma."
+    },
+    {
+      "number": "18.45",
+      "sanskrit": "स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः | स्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु ||",
+      "transliteration": "sve sve karmaṇy abhirataḥ saṃsiddhiṃ labhate naraḥ | sva-karma-nirataḥ siddhiṃ yathā vindati tac chṛṇu ||",
+      "translation": "By performing his inherent duty, every man can attain perfection. Now hear how one can find such perfection by performing one's prescribed duties.",
+      "explanation": "Perfection comes through performing one's natural duty."
+    },
+    {
+      "number": "18.46",
+      "sanskrit": "यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् | स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः ||",
+      "transliteration": "yataḥ pravṛttir bhūtānāṃ yena sarvam idaṃ tatam | sva-karmaṇā tam abhyarcya siddhiṃ vindati mānavaḥ ||",
+      "translation": "By worshiping the Lord, who is the source of all beings and who is all-pervading, through the performance of his own duty, man attains perfection.",
+      "explanation": "Performing duty as worship to the Supreme leads to perfection."
+    },
+    {
+      "number": "18.47",
+      "sanskrit": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् | स्वभावनियतं कर्म कुर्वन्नाप्नोति किल्बिषम् ||",
+      "transliteration": "śreyān sva-dharmo viguṇaḥ para-dharmāt sv-anuṣṭhitāt | svabhāva-niyataṃ karma kurvan nāpnoti kilbiṣam ||",
+      "translation": "It is better to perform one's own duty imperfectly than to perform another's duty perfectly. By performing the duty prescribed by one's inherent nature, one does not incur sin.",
+      "explanation": "Following one's own dharma, even imperfectly, is superior to following another's path."
+    },
+    {
+      "number": "18.48",
+      "sanskrit": "सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् | सर्वारम्भा हि दोषेण धूमेनाग्निरिवावृताः ||",
+      "transliteration": "sahajaṃ karma kaunteya sadoṣam api na tyajet | sarvārambhā hi doṣeṇa dhūmenāgnir ivāvṛtāḥ ||",
+      "translation": "O son of Kunti, one should not abandon the duty born of one's nature, though it may be flawed. All undertakings are enveloped by flaws, as fire by smoke.",
+      "explanation": "Innate duties should never be abandoned despite imperfections."
+    },
+    {
+      "number": "18.49",
+      "sanskrit": "असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः | नैष्कर्म्यसिद्धिं परमां संन्यासेनाधिगच्छति ||",
+      "transliteration": "asakta-buddhiḥ sarvatra jitātmā vigata-spṛhaḥ | naiṣkarmya-siddhiṃ paramāṃ sannyāsenādhigacchati ||",
+      "translation": "One whose intellect is unattached everywhere, who has conquered the self, and is free from desires, attains the supreme perfection of freedom from action through renunciation.",
+      "explanation": "Detachment and self-mastery lead to true renunciation."
+    },
+    {
+      "number": "18.50",
+      "sanskrit": "सिद्धिं प्राप्तो यथा ब्रह्म तथाप्नोति निबोध मे | समासेनैव कौन्तेय निष्ठा ज्ञानस्य या परा ||",
+      "transliteration": "siddhiṃ prāpto yathā brahma tathāpnoti nibodha me | samāsenaiva kaunteya niṣṭhā jñānasya yā parā ||",
+      "translation": "O Kaunteya, hear briefly how one who has attained perfection also attains Brahman, the supreme culmination of knowledge.",
+      "explanation": "Krishna explains the culmination of spiritual perfection."
+    },
+    {
+      "number": "18.51-53",
+      "sanskrit": "बुद्ध्या विशुद्धया युक्तो धृत्यात्मानं नियम्य च | शब्दादीन्विषयांस्त्यक्त्वा रागद्वेषौ व्युदस्य च || विविक्तसेवी लघ्वाशी यतवाक्कायमानसः | ध्यानयोगपरो नित्यं वैराग्यं समुपाश्रितः || अहंकारं बलं दर्पं कामं क्रोधं परिग्रहम् | विमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते ||",
+      "transliteration": "buddhyā viśuddhayā yukto dhṛtyātmānaṃ niyamya ca | śabdādīn viṣayāṃs tyaktvā rāga-dveṣau vyudasya ca || vivikta-sevī laghvāśī yata-vāk-kāya-mānasaḥ | dhyāna-yoga-paro nityaṃ vairāgyaṃ samupāśritaḥ || ahaṅkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ parigraham | vimucya nirmamaḥ śānto brahma-bhūyāya kalpate ||",
+      "translation": "Endowed with purified intellect, controlling the self with determination, abandoning sound and other sense objects, casting aside attraction and aversion, dwelling in solitude, eating lightly, controlling speech, body and mind, always absorbed in meditation, taking refuge in detachment, freed from egoism, power, pride, lust, anger and possessiveness, peaceful and free from the sense of 'mine' - such a person becomes fit for attaining Brahman.",
+      "explanation": "The qualities of one qualified for Brahman realization."
+    },
+    {
+      "number": "18.54",
+      "sanskrit": "ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति | समः सर्वेषु भूतेषु मद्भक्तिं लभते पराम् ||",
+      "transliteration": "brahma-bhūtaḥ prasannātmā na śocati na kāṅkṣati | samaḥ sarveṣu bhūteṣu mad-bhaktiṃ labhate parām ||",
+      "translation": "One who is thus transcendentally situated at once realizes the Supreme Brahman and becomes fully joyful. He never laments nor desires to have anything; he is equally disposed to all living beings. In that state he attains pure devotional service unto Me.",
+      "explanation": "The state of Brahman realization leads to supreme devotion."
+    },
+    {
+      "number": "18.55",
+      "sanskrit": "भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वतः | ततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम् ||",
+      "transliteration": "bhaktyā mām abhijānāti yāvān yaś cāsmi tattvataḥ | tato māṃ tattvato jñātvā viśate tad-anantaram ||",
+      "translation": "By devotion alone can I, as I truly am, be known and seen. And having known Me in truth, one enters into Me immediately thereafter.",
+      "explanation": "Only through devotion can one truly know and attain Krishna."
+    },
+    {
+      "number": "18.56",
+      "sanskrit": "सर्वकर्माण्यपि सदा कुर्वाणो मद्व्यपाश्रयः | मत्प्रसादादवाप्नोति शाश्वतं पदमव्ययम् ||",
+      "transliteration": "sarva-karmāṇy api sadā kurvāṇo mad-vyapāśrayaḥ | mat-prasādād avāpnoti śāśvataṃ padam avyayam ||",
+      "translation": "Though engaged in all kinds of activities, one who takes refuge in Me attains by My grace the eternal and imperishable abode.",
+      "explanation": "Surrender to Krishna while performing duties leads to liberation."
+    },
+    {
+      "number": "18.57",
+      "sanskrit": "चेतसा सर्वकर्माणि मयि संन्यस्य मत्परः | बुद्धियोगमुपाश्रित्य मच्चित्तः सततं भव ||",
+      "transliteration": "cetasā sarva-karmāṇi mayi sannyasya mat-paraḥ | buddhi-yogam upāśritya mac-cittaḥ satataṃ bhava ||",
+      "translation": "Mentally renouncing all actions in Me, having Me as the supreme goal, taking refuge in the yoga of intelligence, always fix your mind on Me.",
+      "explanation": "The essence of karma yoga - performing all actions while absorbed in Krishna."
+    },
+    {
+      "number": "18.58",
+      "sanskrit": "मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि | अथ चेत्त्वमहंकारान्न श्रोष्यसि विनङ्क्ष्यसि ||",
+      "transliteration": "mac-cittaḥ sarva-durgāṇi mat-prasādāt tariṣyasi | atha cet tvam ahaṅkārān na śroṣyasi vinaṅkṣyasi ||",
+      "translation": "With your consciousness fixed in Me, you shall overcome all obstacles by My grace. But if from egoism you do not listen, you shall perish.",
+      "explanation": "Following Krishna's instruction leads to success; neglecting it leads to ruin."
+    },
+    {
+      "number": "18.59",
+      "sanskrit": "यदहंकारमाश्रित्य न योत्स्य इति मन्यसे | मिथ्यैष व्यवसायस्ते प्रकृतिस्त्वां नियोक्ष्यति ||",
+      "transliteration": "yad ahaṅkāram āśritya na yotsya iti manyase | mithyaiṣa vyavasāyas te prakṛtis tvāṃ niyokṣyati ||",
+      "translation": "If, motivated by egoism, you think, 'I shall not fight,' your resolve is vain. Your own nature will compel you.",
+      "explanation": "Arjuna cannot abandon his kshatriya duty dictated by his nature."
+    },
+    {
+      "number": "18.60",
+      "sanskrit": "स्वभावजेन कौन्तेय निबद्धः स्वेन कर्मणा | कर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोऽपि तत् ||",
+      "transliteration": "svabhāva-jena kaunteya nibaddhaḥ svena karmaṇā | kartum necchasi yan mohāt kariṣyasy avaśo 'pi tat ||",
+      "translation": "O son of Kunti, bound by your own karma born of your nature, that which from delusion you do not wish to do, you shall do helplessly.",
+      "explanation": "One's inherent nature inevitably expresses itself."
+    },
+    {
+      "number": "18.61",
+      "sanskrit": "ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति | भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया ||",
+      "transliteration": "īśvaraḥ sarva-bhūtānāṃ hṛd-deśe 'rjuna tiṣṭhati | bhrāmayan sarva-bhūtāni yantrārūḍhāni māyayā ||",
+      "translation": "The Supreme Lord dwells in the hearts of all beings, O Arjuna, causing them to revolve according to their karma by His illusive power.",
+      "explanation": "Krishna as Paramatma directs all beings according to their past actions."
+    },
+    {
+      "number": "18.62",
+      "sanskrit": "तमेव शरणं गच्छ सर्वभावेन भारत | तत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम् ||",
+      "transliteration": "tam eva śaraṇaṃ gaccha sarva-bhāvena bhārata | tat-prasādāt parāṃ śāntiṃ sthānaṃ prāpsyasi śāśvatam ||",
+      "translation": "O scion of Bharata, surrender unto Him utterly. By His grace you will attain transcendental peace and the supreme and eternal abode.",
+      "explanation": "Krishna's final instruction - complete surrender to Him."
+    },
+    {
+      "number": "18.63",
+      "sanskrit": "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया | विमृश्यैतदशेषेण यथेच्छसि तथा कुरु ||",
+      "transliteration": "iti te jñānam ākhyātaṃ guhyād guhya-taraṃ mayā | vimṛśyaitad aśeṣeṇa yathecchasi tathā kuru ||",
+      "translation": "Thus I have explained to you this knowledge that is more secret than all secrets. Ponder it thoroughly, and then do as you choose.",
+      "explanation": "Krishna has revealed the most confidential knowledge; now Arjuna must decide."
+    },
+    {
+      "number": "18.64",
+      "sanskrit": "सर्वगुह्यतमं भूयः शृणु मे परमं वचः | इष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम् ||",
+      "transliteration": "sarva-guhya-tamaṃ bhūyaḥ śṛṇu me paramaṃ vacaḥ | iṣṭo 'si me dṛḍham iti tato vakṣyāmi te hitam ||",
+      "translation": "Hear again My supreme word, the most secret of all. Because you are My dear friend, I shall speak for your benefit.",
+      "explanation": "Krishna offers His most confidential instruction out of love."
+    },
+    {
+      "number": "18.65",
+      "sanskrit": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु | मामेवैष्यसि युक्त्वैवमात्मानं मत्परायणः ||",
+      "transliteration": "man-manā bhava mad-bhakto mad-yājī māṃ namaskuru | mām evaiṣyasi yuktvaivam ātmānaṃ mat-parāyaṇaḥ ||",
+      "translation": "Fix your mind on Me, be devoted to Me, worship Me and bow down to Me. Thus uniting yourself with Me and making Me your supreme goal, you shall surely come to Me.",
+      "explanation": "The essence of bhakti yoga - complete absorption in Krishna."
+    },
+    {
+      "number": "18.66",
+      "sanskrit": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज | अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ||",
+      "transliteration": "sarva-dharmān parityajya mām ekaṃ śaraṇaṃ vraja | ahaṃ tvā sarva-pāpebhyo mokṣayiṣyāmi mā śucaḥ ||",
+      "translation": "Abandon all varieties of religion and just surrender unto Me. I shall deliver you from all sinful reactions. Do not fear.",
+      "explanation": "Krishna's most famous verse - the call to complete surrender."
+    },
+    {
+      "number": "18.67",
+      "sanskrit": "इदं ते नातपस्काय नाभक्ताय कदाचन | न चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति ||",
+      "transliteration": "idaṃ te nātapaskāya nābhaktāya kadācana | na cāśuśrūṣave vācyaṃ na ca māṃ yo 'bhyasūyati ||",
+      "translation": "This confidential knowledge should never be explained to those who are not austere, or devoted, or engaged in devotional service, nor to one who is envious of Me.",
+      "explanation": "These teachings are for sincere devotees only."
+    },
+    {
+      "number": "18.68-69",
+      "sanskrit": "य इदं परमं गुह्यं मद्भक्तेष्वभिधास्यति | भक्तिं मयि परां कृत्वा मामेवैष्यत्यसंशयः || न च तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः | भविता न च मे तस्मादन्यः प्रियतरो भुवि ||",
+      "transliteration": "ya idaṃ paramaṃ guhyaṃ mad-bhakteṣv abhidhāsyati | bhaktiṃ mayi parāṃ kṛtvā mām evaiṣyaty asaṃśayaḥ || na ca tasmān manuṣyeṣu kaścin me priya-kṛt tamaḥ | bhavitā na ca me tasmād anyaḥ priyataro bhuvi ||",
+      "translation": "One who explains this supreme secret to My devotees, performing the highest devotional service to Me, shall without doubt come to Me. No one is dearer to Me than such a person, nor will there ever be anyone more dear.",
+      "explanation": "The glory of sharing this divine knowledge with devotees."
+    },
+    {
+      "number": "18.70",
+      "sanskrit": "अध्येष्यते च य इमं धर्म्यं संवादमावयोः | ज्ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः ||",
+      "transliteration": "adhyeṣyate ca ya imaṃ dharmyaṃ saṃvādam āvayoḥ | jñāna-yajñena tenāham iṣṭaḥ syām iti me matiḥ ||",
+      "translation": "And I declare that one who studies this sacred dialogue of ours worships Me by his intelligence.",
+      "explanation": "Studying the Gita is itself a form of worship to Krishna."
+    },
+    {
+      "number": "18.71",
+      "sanskrit": "श्रद्धावाननसूयश्च शृणुयादपि यो नरः | सोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम् ||",
+      "transliteration": "śraddhāvān anasūyaś ca śṛṇuyād api yo naraḥ | so 'pi muktaḥ śubhāḻ lokān prāpnuyāt puṇya-karmaṇām ||",
+      "translation": "And whoever listens with faith and without envy becomes free from sinful reactions and attains the auspicious planets where the pious dwell.",
+      "explanation": "Even hearing the Gita with faith brings merit."
+    },
+    {
+      "number": "18.72",
+      "sanskrit": "कच्चिदेतच्छ्रुतं पार्थ त्वयैकाग्रेण चेतसा | कच्चिदज्ञानसंमोहः प्रनष्टस्ते धनञ्जय ||",
+      "transliteration": "kaccid etac chrutaṃ pārtha tvayaikāgreṇa cetasā | kaccid ajñāna-saṃmohaḥ pranaṣṭas te dhanañjaya ||",
+      "translation": "O Partha, O conqueror of wealth, have you heard this with an attentive mind? Has your delusion born of ignorance been dispelled?",
+      "explanation": "Krishna checks if Arjuna has understood and his doubts are cleared."
+    },
+    {
+      "number": "18.73",
+      "sanskrit": "अर्जुन उवाच | नष्टो मोहः स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत | स्थितोऽस्मि गतसन्देहः करिष्ये वचनं तव ||",
+      "transliteration": "arjuna uvāca | naṣṭo mohaḥ smṛtir labdhā tvat-prasādān mayācyuta | sthito 'smi gata-sandehaḥ kariṣye vacanaṃ tava ||",
+      "translation": "Arjuna said: My dear Krishna, O infallible one, my illusion is now gone. By Your mercy I have regained my memory. I am now firm and free from doubt and am prepared to act according to Your instructions.",
+      "explanation": "Arjuna declares his readiness to fight, his confusion dispelled."
+    },
+    {
+      "number": "18.74",
+      "sanskrit": "सञ्जय उवाच | इत्यहं वासुदेवस्य पार्थस्य च महात्मनः | संवादमिममश्रौषमद्भुतं रोमहर्षणम् ||",
+      "transliteration": "sañjaya uvāca | ity ahaṃ vāsudevasya pārthasya ca mahātmanaḥ | saṃvādam imam aśrauṣam adbhutaṃ roma-harṣaṇam ||",
+      "translation": "Sanjaya said: Thus have I heard this wonderful dialogue between Krishna and the great-souled Arjuna, which causes my hair to stand on end.",
+      "explanation": "Sanjaya describes his experience of hearing the Gita."
+    },
+    {
+      "number": "18.75",
+      "sanskrit": "व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम् | योगं योगेश्वरात्कृष्णात्साक्षात्कथयतः स्वयम् ||",
+      "transliteration": "vyāsa-prasādāc chrutavān etad guhyam ahaṃ param | yogaṃ yogeśvarāt kṛṣṇāt sākṣāt kathayataḥ svayam ||",
+      "translation": "By the mercy of Vyasa, I have heard this most confidential yoga directly from Krishna, the Lord of yoga Himself, who was speaking before my very eyes.",
+      "explanation": "Sanjaya acknowledges his privilege in hearing the Gita directly."
+    },
+    {
+      "number": "18.76",
+      "sanskrit": "राजन्संस्मृत्य संस्मृत्य संवादमिममद्भुतम् | केशवार्जुनयोः पुण्यं हृष्यामि च मुहुर्मुहुः ||",
+      "transliteration": "rājan saṃsmṛtya saṃsmṛtya saṃvādam imam adbhutam | keśavārjunayoḥ puṇyaṃ hṛṣyāmi ca muhur muhuḥ ||",
+      "translation": "O King, as I repeatedly recall this wondrous and holy dialogue between Krishna and Arjuna, I rejoice again and again.",
+      "explanation": "Sanjaya finds endless joy in remembering this divine conversation."
+    },
+    {
+      "number": "18.77",
+      "sanskrit": "तच्च संस्मृत्य संस्मृत्य रूपमत्यद्भुतं हरेः | विस्मयो मे महान्राजन्हृष्यामि च पुनः पुनः ||",
+      "transliteration": "tac ca saṃsmṛtya saṃsmṛtya rūpam aty-adbhutaṃ hareḥ | vismayo me mahān rājan hṛṣyāmi ca punaḥ punaḥ ||",
+      "translation": "And as I remember the most wonderful form of Hari, O King, great is my astonishment, and I rejoice over and over again.",
+      "explanation": "Sanjaya is awestruck remembering Krishna's divine form."
+    },
+    {
+      "number": "18.78",
+      "sanskrit": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः | तत्र श्रीर्विजयो भूतिध्रुवा नीतिर्मतिर्मम ||",
+      "transliteration": "yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanur-dharaḥ | tatra śrīr vijayo bhūtir dhruvā nītir matir mama ||",
+      "translation": "Wherever there is Krishna, the Lord of yoga, and wherever there is Arjuna, the supreme archer, there will certainly be opulence, victory, extraordinary power, and morality. That is my conviction.",
+      "explanation": "Sanjaya's concluding statement affirming the divine presence of Krishna and Arjuna ensures all success."
+    }
+  ]
+}

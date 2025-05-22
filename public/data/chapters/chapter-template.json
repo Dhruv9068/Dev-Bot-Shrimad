@@ -1,0 +1,15 @@
+{
+  "number": 0,
+  "title": "Chapter Title",
+  "subtitle": "Chapter Subtitle",
+  "summary": "A summary of the chapter's content and significance.",
+  "verses": [
+    {
+      "number": "0.1",
+      "sanskrit": "Sanskrit text of the verse",
+      "transliteration": "Transliteration of the Sanskrit text",
+      "translation": "English translation of the verse",
+      "explanation": "Explanation of the verse's meaning and significance"
+    }
+  ]
+}
